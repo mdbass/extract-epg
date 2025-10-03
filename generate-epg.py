@@ -82,10 +82,8 @@ def fetch_distro_epg(channel_ids, days=3):
     all_data = []
     
     for day in range(days):
-        start_time = datetime.now(pytz.UTC) + timedelta(days=day)
-        end_time = start_time + timedelta(days=1)
         
-        range_param = f"{start_time.strftime('%Y-%m-%d 00:00:00')},{end_time.strftime('%Y-%m-%d 00:00:00')}"
+        range_param ="now,72h"
         
         params = {
             'range': range_param,
