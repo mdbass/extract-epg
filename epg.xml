@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/mdbass/extract-epg">
+  <channel id="DS-141278">
+    <display-name>World Punjabi Tv</display-name>
+    <desc lang="en">News for Punjabis, by Punjabis. World Punjabi TV is your 24/7 channel for news, interviews, and live events, including daily broadcasts from Gurudwara Nadha Sahib. Your connection to home, wherever you are.</desc>
+  </channel>
+  <channel id="DS-138742">
+    <display-name>Living India News</display-name>
+    <desc lang="en">Living India News is a popular channel that offers a wide range of news coverage, including Punjab, national, and international news. What sets us apart is our engaging debates on contemporary topics and special series shows that are both informative and interesting. News on specific topics, we've got you covered. From business and markets to technology and sports, Living India News provides in-depth coverage of current events. Our debates and discussions feature expert analysis and diverse perspectives, making them a great resource for staying informed.</desc>
+  </channel>
+  <channel id="DS-66501">
+    <display-name>Garv Punjab Gurbani</display-name>
+    <desc lang="en">Gurbani Tv Channel with non-stop Kirtan, Kathas and Sikh Religious Channel.</desc>
+  </channel>
+  <channel id="DS-71637">
+    <display-name>TV Punjab</display-name>
+    <desc lang="en">TV Punjab provides authentic and credible news and high-quality entertainment content featuring Punjabi language. Television Punjab content is designed to reflex the various cultural elements of Punjab.</desc>
+  </channel>
+  <channel id="DS-135913">
+    <display-name>Punjabi Hits</display-name>
+    <desc lang="en">Har Punjabi Hit Hai</desc>
+  </channel>
+  <channel id="DS-126109">
+    <display-name>Saga Music</display-name>
+    <desc lang="en">Saga Music is a 24/7 channel dedicated to serving Punjabi music content globally, showcasing a diverse array of genres including Folk, Pop, Sufi, Hip Hop, and Rap.</desc>
+  </channel>
+  <channel id="DS-87417">
+    <display-name>Bollywood Classic</display-name>
+    <desc lang="en">We've got a time machine, the one which takes you into the world full of enchanting tales from the land of miracles, India. Would you like to time travel to the 50s, 60s, 70s, 80s and more to watch Bollywood legends create history with their exceptional performances, phenomenal dialogues and iconic song and dance? With a snap of a finger, with a button on a remote, Bollywood Classic will teleport you into the high definition world loaded with Bollywood classic movies, evergreen melodies, real life stories of the world famous icons and much more than you can imagine. This exclusive one of its kind channel, is home to legends like Raj Kapoor, Dev Anand, Rajesh Khanna, Amitabh Bachchan, Madhubala, Nargis, Zeenat Aman, Madhuri Dixit and more. the entire Bollywood classic collection, which grows every single month, and that too in your preferred language. Don't waste a single minute, or you'll miss this blast from the past, which is waiting to take you back.</desc>
+  </channel>
+  <channel id="DS-87418">
+    <display-name>Bollywood HD</display-name>
+    <desc lang="en">A magical world awaits you, a single destination where lives glamour, fantasies and dreams. A world so colourful and real where you can literally touch, feel and become a part of the stories you see, a world of high definition. This perfect place of entertainment is called, Bollywood HD, a channel which offers treats from the world’s biggest producer of movies, Bollywood, all at your fingertips, exclusively for you. Tune in to experience larger than life blockbusters stories every single day, all year around. This one stop starry shop not just offers hot and sizzling premieres every month, but also gives you an upclose &amp; personal peak into the gossip and news on the lives of the glamour Bollywood celebrities. Leave your worries behind and escape into the starlit world of Bollywood HD today.</desc>
+  </channel>
+  <channel id="DS-126290">
+    <display-name>Zee BollyWorld</display-name>
+    <desc lang="en">Zee BollyWorld is a dynamic FAST Bollywood Movie channel that takes you back to the glorious 'Evergreen Age' of Indian Hindi Cinema. This is a curation of cinematic treasures to celebrate the legacy of Indian Cinema.</desc>
+  </channel>
+  <channel id="DS-135729">
+    <display-name>Willow Sports</display-name>
+    <desc lang="en">Willow Sports is the free home for cricket in North America. The best of live and on-demand action from around the world is available, from ICC World Cups to the IPL. Also, other action packed live sports that will have you on the edge of your seat.</desc>
+  </channel>
+  <channel id="DS-138922">
+    <display-name>Sports First TV</display-name>
+    <desc lang="en">FAST moving 24/7 Sports News Network, daily breaking news about global sports, with interviews, features and highlights of the biggest sports events from over 200 sports federations. Covers sports from US and all around the world, EPL, NBA, NFL, MLB, F1, golf, tennis, cricket, etc.</desc>
+  </channel>
+  <channel id="DS-79275">
+    <display-name>beIN SPORTS Xtra</display-name>
+    <desc lang="en">A free, 24/7 English language LIVE sports, news, analysis and highlights network that brings everyone closer to the game.</desc>
+  </channel>
+  <channel id="DS-77840">
+    <display-name/>
+  </channel>
+  <channel id="DS-136902">
+    <display-name>SportsTVPlus</display-name>
+    <desc lang="en">SportsTVplus - All sports all the time 24-7 auto racing, BMX, basketball, beach volleyball, combat sports, football, golf, soccer, and many more. Find your game, highlights &amp; news right here!</desc>
+  </channel>
+  <channel id="DS-78918">
+    <display-name>TNA Wrestling Channel</display-name>
+    <desc lang="en">TNA Wrestling puts the spotlight on 20+ years of professional wrestling action, featuring addictive storylines, awe-inspiring athleticism and larger-than-life personalities. Relive all-time classics, modern masterpieces, plus original series.</desc>
+  </channel>
+  <channel id="KO-32">
+    <display-name>Chardikla Time Tv North America</display-name>
+    <desc lang="en">Chardikla Time TV North America brings you 24/7 Punjabi news, entertainment, and cultural programming, serving the vibrant Punjabi and South Asian communities across North America. Experience exclusive coverage of major community events, including Bangla Sahib, Patna Sahib, Yuba City Nagar Kirtan, Los Angeles Nagar Kirtan, Holla Mohalla Riverside, Boston Bhangra, Sikh Day Parade New York, South Asian Showdown, Kabaddi, Soccer, and Field Hockey. Chardikla Time TV North America is your go-to destination for authentic Punjabi content. Watch live now and stay connected to your roots!</desc>
+    <icon src="https://images.kableone.com/Images/TVImages/TVChannel/TimeTvNorthAmericaThumbnail450x250(2)_1d99.png"/>
+  </channel>
+  <channel id="KO-30">
+    <display-name>Chardikla Time TV</display-name>
+    <desc lang="en">Chardikla Time TV is a top-ranking Free-to-Air Infotainment channel from Punjab, known for its live Gurbani telecast from sacred sites. It features news analysis, talk shows, crime series, documentaries, and social discussions. Catering to all age groups, it offers diverse content and strong engagement, making it a trusted choice for advertisers and viewers worldwide.</desc>
+    <icon src="https://images.kableone.com/Images/TVImages/TVChannel/Timetv_6417.jpg"/>
+  </channel>
+  <channel id="KO-31">
+    <display-name>Chardikla Gurbani TV</display-name>
+    <desc lang="en">Chardikla Gurbaani TV, with the motto “A Bliss to Humanity,” is a 24×7 Free Sikh Devotional Channel available globally on various platforms. It features live telecasts from Takhat Sri Harimandir Ji Patna Sahib, Gurdwara Sri Bangla Sahib, and special broadcasts from North America. Dedicated to Sikh teachings, history, Katha, Kirtan, and Dhadhi shows, it spreads the message of Gurbani worldwide.</desc>
+    <icon src="https://images.kableone.com/Images/TVImages/TVChannel/Gurbani_78d2.jpg"/>
+  </channel>
+  <channel id="ST-5294">
+    <display-name>Cricket Gold</display-name>
+    <display-name>440</display-name>
+  </channel>
+  <programme channel="KO-32" start="20251003060000 +0000" stop="20251003080000 +0000">
+    <title lang="en">Sukhmani Sahib Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SukhmaniSahibSriBanglaSahibJi_d24c.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003080000 +0000" stop="20251003091500 +0000">
+    <title lang="en">Nitname Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NitnameSriBanglaSahibJi_9162.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003091500 +0000" stop="20251003114500 +0000">
+    <title lang="en">Assa Di Vaar Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AssaDiVaarSriBanglaSahibJi_d9d5.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003114500 +0000" stop="20251003123000 +0000">
+    <title lang="en">Katha Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003123000 +0000" stop="20251003130000 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_4b5e.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003130000 +0000" stop="20251003133000 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_1c2c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003133000 +0000" stop="20251003140000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003140000 +0000" stop="20251003143000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003143000 +0000" stop="20251003144500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003144500 +0000" stop="20251003150000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_4c2a.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003150000 +0000" stop="20251003153000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_05f8.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003153000 +0000" stop="20251003160000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_05f8.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003160000 +0000" stop="20251003163000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003163000 +0000" stop="20251003170000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003170000 +0000" stop="20251003173000 +0000">
+    <title lang="en">Khabar Insight</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_729c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003173000 +0000" stop="20251003180000 +0000">
+    <title lang="en">The Harsukh Show</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/TheHarsukhShow_a257.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003180000 +0000" stop="20251003183000 +0000">
+    <title lang="en">North America City Bytes</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NorthAmericaCityBytes_6ad3.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003183000 +0000" stop="20251003190000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_ba22.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003190000 +0000" stop="20251003193000 +0000">
+    <title lang="en">Phone ka Funda</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PhonekaFunda_5bae.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003193000 +0000" stop="20251003194500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003194500 +0000" stop="20251003200000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_4c2a.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003200000 +0000" stop="20251003203000 +0000">
+    <title lang="en">Ajj de mudde</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_b605.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003203000 +0000" stop="20251003210000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003210000 +0000" stop="20251003213000 +0000">
+    <title lang="en">Rehraas Sahib Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/RehraasSahibSriBanglaSahibJi_d917.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003213000 +0000" stop="20251003220000 +0000">
+    <title lang="en">Rehraas Sahib Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/RehraasSahibSriBanglaSahibJi_d917.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003220000 +0000" stop="20251003223000 +0000">
+    <title lang="en">Katha Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003223000 +0000" stop="20251003230000 +0000">
+    <title lang="en">Katha Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003230000 +0000" stop="20251003233000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251003233000 +0000" stop="20251004000000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004000000 +0000" stop="20251004003000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_06d3.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004003000 +0000" stop="20251004010000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_06d3.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004010000 +0000" stop="20251004013000 +0000">
+    <title lang="en">Naviyan Kalman Navin Udaan</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NaviyanKalmanNavinUdaan_d8b6.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004013000 +0000" stop="20251004020000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004020000 +0000" stop="20251004023000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004023000 +0000" stop="20251004030000 +0000">
+    <title lang="en">Chah da Cup te Gup Shup with Manju Walia</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChahDacupTeGupshupwithmanjuwalia_85b6.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004030000 +0000" stop="20251004033000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004033000 +0000" stop="20251004040000 +0000">
+    <title lang="en">Bolda Punjab</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_5e55.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004040000 +0000" stop="20251004043000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_f89d.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004043000 +0000" stop="20251004045900 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004050000 +0000" stop="20251004053000 +0000">
+    <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_ccae.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004053000 +0000" stop="20251004060000 +0000">
+    <title lang="en">Japuji Sahib &amp; Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/JapujiSahib&amp;ChoupaiSahib_1529.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004060000 +0000" stop="20251004080000 +0000">
+    <title lang="en">Sukhmani Sahib Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SukhmaniSahibSriBanglaSahibJi_d24c.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004080000 +0000" stop="20251004091500 +0000">
+    <title lang="en">Nitname Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NitnameSriBanglaSahibJi_9162.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004091500 +0000" stop="20251004114500 +0000">
+    <title lang="en">Assa Di Vaar Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AssaDiVaarSriBanglaSahibJi_d9d5.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004114500 +0000" stop="20251004123000 +0000">
+    <title lang="en">Katha Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004123000 +0000" stop="20251004130000 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_4b5e.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004130000 +0000" stop="20251004133000 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_1c2c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004133000 +0000" stop="20251004140000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004140000 +0000" stop="20251004143000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004143000 +0000" stop="20251004144500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004144500 +0000" stop="20251004150000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_4c2a.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004150000 +0000" stop="20251004153000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_05f8.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004153000 +0000" stop="20251004160000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_05f8.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004160000 +0000" stop="20251004163000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004163000 +0000" stop="20251004170000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004170000 +0000" stop="20251004173000 +0000">
+    <title lang="en">Khabar Insight</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_729c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004173000 +0000" stop="20251004180000 +0000">
+    <title lang="en">The Harsukh Show</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/TheHarsukhShow_a257.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004180000 +0000" stop="20251004183000 +0000">
+    <title lang="en">North America City Bytes</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NorthAmericaCityBytes_6ad3.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004183000 +0000" stop="20251004190000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_ba22.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004190000 +0000" stop="20251004193000 +0000">
+    <title lang="en">Phone ka Funda</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PhonekaFunda_5bae.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004193000 +0000" stop="20251004194500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004194500 +0000" stop="20251004200000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_4c2a.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004200000 +0000" stop="20251004203000 +0000">
+    <title lang="en">Ajj de mudde</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_b605.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004203000 +0000" stop="20251004210000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004210000 +0000" stop="20251004213000 +0000">
+    <title lang="en">Rehraas Sahib Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/RehraasSahibSriBanglaSahibJi_d917.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004213000 +0000" stop="20251004220000 +0000">
+    <title lang="en">Rehraas Sahib Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/RehraasSahibSriBanglaSahibJi_d917.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004220000 +0000" stop="20251004223000 +0000">
+    <title lang="en">Katha Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004223000 +0000" stop="20251004230000 +0000">
+    <title lang="en">Katha Sri Bangla Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004230000 +0000" stop="20251004233000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20251004233000 +0000" stop="20251005000000 +0000">
+    <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003070000 +0000" stop="20251003073000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003073000 +0000" stop="20251003074500 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003074500 +0000" stop="20251003080000 +0000">
+    <title lang="en">Aj de Mudde</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_a304.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003080000 +0000" stop="20251003083000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003083000 +0000" stop="20251003090000 +0000">
+    <title lang="en">Chardikla Talks</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaTalks_1b9d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003090000 +0000" stop="20251003093000 +0000">
+    <title lang="en">Social Fever</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SocialFever_ed6e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003093000 +0000" stop="20251003094500 +0000">
+    <title lang="en">Khabar Insight</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_b79e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003094500 +0000" stop="20251003100000 +0000">
+    <title lang="en">Punjab Haryana Gail Gail</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabHaryanaGailGail_8c1d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003100000 +0000" stop="20251003101500 +0000">
+    <title lang="en">Khaas Mulaqat</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhaasMulaqat_be4e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003101500 +0000" stop="20251003103000 +0000">
+    <title lang="en">Khaas Mulaqat</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhaasMulaqat_be4e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003103000 +0000" stop="20251003105000 +0000">
+    <title lang="en">Haryana News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaNews_4bca.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003105000 +0000" stop="20251003110000 +0000">
+    <title lang="en">Uttrakhand News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003110000 +0000" stop="20251003111500 +0000">
+    <title lang="en">Uttar Pradesh News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttarPardeshNews_b2c9.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003111500 +0000" stop="20251003113000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003113000 +0000" stop="20251003120000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_9fb3.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003120000 +0000" stop="20251003130000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003130000 +0000" stop="20251003130500 +0000">
+    <title lang="en">Haryana Diary</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003130500 +0000" stop="20251003131500 +0000">
+    <title lang="en">Top 10 News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Top10News_6d78.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003131500 +0000" stop="20251003133000 +0000">
+    <title lang="en">Speed News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SpeedNews_a15b.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003133000 +0000" stop="20251003143000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003143000 +0000" stop="20251003153000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003153000 +0000" stop="20251003154000 +0000">
+    <title lang="en">Chardikla Fast News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003154000 +0000" stop="20251003161500 +0000">
+    <title lang="en">Bolda Punjab</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_dbf5.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003161500 +0000" stop="20251003164500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003164500 +0000" stop="20251003170000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_2572.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003170000 +0000" stop="20251003171500 +0000">
+    <title lang="en">Uttrakhand News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003171500 +0000" stop="20251003174500 +0000">
+    <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_dd99.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003174500 +0000" stop="20251003181500 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_d6bc.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003181500 +0000" stop="20251003182900 +0000">
+    <title lang="en">Chardikla Fast News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003183000 +0000" stop="20251003190000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003190000 +0000" stop="20251003193000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003193000 +0000" stop="20251003200000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003200000 +0000" stop="20251003203000 +0000">
+    <title lang="en">Religious</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251003203000 +0000" stop="20251004030000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004030000 +0000" stop="20251004031500 +0000">
+    <title lang="en">Religious</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004031500 +0000" stop="20251004035000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_d13d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004035000 +0000" stop="20251004043000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004043000 +0000" stop="20251004050000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_d13d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004050000 +0000" stop="20251004052500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004052500 +0000" stop="20251004053000 +0000">
+    <title lang="en">Haryana Diary</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004053000 +0000" stop="20251004060000 +0000">
+    <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_8e53.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004060000 +0000" stop="20251004063000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004063000 +0000" stop="20251004065000 +0000">
+    <title lang="en">Path Sri Japji Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PathSriJapjiSahib_8eba.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004065000 +0000" stop="20251004070000 +0000">
+    <title lang="en">Chaupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChaupaiSahib_103e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004070000 +0000" stop="20251004073000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004073000 +0000" stop="20251004074500 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004074500 +0000" stop="20251004080000 +0000">
+    <title lang="en">Aj de Mudde</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_a304.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004080000 +0000" stop="20251004083000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004083000 +0000" stop="20251004090000 +0000">
+    <title lang="en">Chardikla Talks</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaTalks_1b9d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004090000 +0000" stop="20251004093000 +0000">
+    <title lang="en">Social Fever</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SocialFever_ed6e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004093000 +0000" stop="20251004094500 +0000">
+    <title lang="en">Khabar Insight</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_b79e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004094500 +0000" stop="20251004100000 +0000">
+    <title lang="en">Punjab Haryana Gail Gail</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabHaryanaGailGail_8c1d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004100000 +0000" stop="20251004101500 +0000">
+    <title lang="en">Khaas Mulaqat</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhaasMulaqat_be4e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004101500 +0000" stop="20251004103000 +0000">
+    <title lang="en">Khaas Mulaqat</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhaasMulaqat_be4e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004103000 +0000" stop="20251004105000 +0000">
+    <title lang="en">Haryana News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaNews_4bca.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004105000 +0000" stop="20251004110000 +0000">
+    <title lang="en">Uttrakhand News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004110000 +0000" stop="20251004111500 +0000">
+    <title lang="en">Uttar Pradesh News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttarPardeshNews_b2c9.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004111500 +0000" stop="20251004113000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004113000 +0000" stop="20251004120000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_9fb3.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004120000 +0000" stop="20251004130000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004130000 +0000" stop="20251004130500 +0000">
+    <title lang="en">Haryana Diary</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004130500 +0000" stop="20251004131500 +0000">
+    <title lang="en">Top 10 News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Top10News_6d78.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004131500 +0000" stop="20251004133000 +0000">
+    <title lang="en">Speed News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SpeedNews_a15b.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004133000 +0000" stop="20251004143000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004143000 +0000" stop="20251004153000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004153000 +0000" stop="20251004154000 +0000">
+    <title lang="en">Chardikla Fast News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004154000 +0000" stop="20251004161500 +0000">
+    <title lang="en">Bolda Punjab</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_dbf5.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004161500 +0000" stop="20251004164500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004164500 +0000" stop="20251004170000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_2572.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004170000 +0000" stop="20251004171500 +0000">
+    <title lang="en">Uttrakhand News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004171500 +0000" stop="20251004174500 +0000">
+    <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_dd99.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004174500 +0000" stop="20251004181500 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_d6bc.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004181500 +0000" stop="20251004182900 +0000">
+    <title lang="en">Chardikla Fast News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004183000 +0000" stop="20251004190000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004190000 +0000" stop="20251004193000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004193000 +0000" stop="20251004200000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004200000 +0000" stop="20251004203000 +0000">
+    <title lang="en">Religious</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20251004203000 +0000" stop="20251005030000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003040000 +0000" stop="20251003073000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_4c78.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003073000 +0000" stop="20251003080000 +0000">
+    <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003080000 +0000" stop="20251003083000 +0000">
+    <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003083000 +0000" stop="20251003090000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji Giani Sahib Singh ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_57f5.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003090000 +0000" stop="20251003093000 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_5d1f.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003093000 +0000" stop="20251003100000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_d52e.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003100000 +0000" stop="20251003103000 +0000">
+    <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_4597.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003103000 +0000" stop="20251003110000 +0000">
+    <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_d97f.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003110000 +0000" stop="20251003113000 +0000">
+    <title lang="en">Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003113000 +0000" stop="20251003144000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_4c78.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003144000 +0000" stop="20251003151000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_a9a3.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003151000 +0000" stop="20251003161000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003161000 +0000" stop="20251003171000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003171000 +0000" stop="20251003181000 +0000">
+    <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003181000 +0000" stop="20251003182900 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003183000 +0000" stop="20251003190000 +0000">
+    <title lang="en">Japuji Sahib &amp; Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/JapujiSahib&amp;ChoupaiSahib_9d28.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003190000 +0000" stop="20251003193000 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003193000 +0000" stop="20251003200000 +0000">
+    <title lang="en">Chandi Di Waar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChandiDiWaar_b769.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003200000 +0000" stop="20251003201000 +0000">
+    <title lang="en">Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251003201000 +0000" stop="20251004040000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004040000 +0000" stop="20251004073000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_4c78.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004073000 +0000" stop="20251004080000 +0000">
+    <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004080000 +0000" stop="20251004083000 +0000">
+    <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004083000 +0000" stop="20251004090000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji Giani Sahib Singh ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_57f5.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004090000 +0000" stop="20251004093000 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_5d1f.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004093000 +0000" stop="20251004100000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_d52e.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004100000 +0000" stop="20251004103000 +0000">
+    <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_4597.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004103000 +0000" stop="20251004110000 +0000">
+    <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_d97f.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004110000 +0000" stop="20251004113000 +0000">
+    <title lang="en">Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004113000 +0000" stop="20251004144000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_4c78.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004144000 +0000" stop="20251004151000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_a9a3.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004151000 +0000" stop="20251004161000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004161000 +0000" stop="20251004171000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004171000 +0000" stop="20251004181000 +0000">
+    <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004181000 +0000" stop="20251004182900 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004183000 +0000" stop="20251004190000 +0000">
+    <title lang="en">Japuji Sahib &amp; Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/JapujiSahib&amp;ChoupaiSahib_9d28.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004190000 +0000" stop="20251004193000 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004193000 +0000" stop="20251004200000 +0000">
+    <title lang="en">Chandi Di Waar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChandiDiWaar_b769.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004200000 +0000" stop="20251004201000 +0000">
+    <title lang="en">Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
+  </programme>
+  <programme channel="KO-31" start="20251004201000 +0000" stop="20251005040000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
+  </programme>
+  <programme channel="ST-5294" start="20251001085256 +0000" stop="20251001115256 +0000">
+    <title lang="en">2007/08 ODI Tri-Series - 2nd Final - Australia v India</title>
+    <desc lang="en">2007/08 ODI Tri-Series - 2nd Final - Australia v India</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001115256 +0000" stop="20251001135257 +0000">
+    <title lang="en">Australia v India - 1st Test - 2007/08 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 1st Test - 2007/08 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001135257 +0000" stop="20251001155256 +0000">
+    <title lang="en">Australia v India - 2nd Test - 2007/08 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 2nd Test - 2007/08 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001155256 +0000" stop="20251001175257 +0000">
+    <title lang="en">Australia v India - 3rd Test - 2007/08 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 3rd Test - 2007/08 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001175257 +0000" stop="20251001195257 +0000">
+    <title lang="en">Australia v India - 4th Test - 2007/08 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 4th Test - 2007/08 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001195257 +0000" stop="20251001215258 +0000">
+    <title lang="en">Australia v West Indies - 1st Test - 2000/01 Frank Worrell Trophy</title>
+    <desc lang="en">Australia v West Indies - 1st Test - 2000/01 Frank Worrell Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001215258 +0000" stop="20251001235258 +0000">
+    <title lang="en">Australia v West Indies - 2nd Test - 2000/01 Frank Worrell Trophy</title>
+    <desc lang="en">Australia v West Indies - 2nd Test - 2000/01 Frank Worrell Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251001235258 +0000" stop="20251002015259 +0000">
+    <title lang="en">Australia v West Indies - 4th Test - 2000/01 Frank Worrell Trophy</title>
+    <desc lang="en">Australia v West Indies - 4th Test - 2000/01 Frank Worrell Trophy</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <date>20251001</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002015259 +0000" stop="20251002035259 +0000">
+    <title lang="en">Australia v West Indies - 1st Test - 2000/01 Frank Worrell Trophy</title>
+    <desc lang="en">Australia v West Indies - 1st Test - 2000/01 Frank Worrell Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002035259 +0000" stop="20251002055300 +0000">
+    <title lang="en">Australia v West Indies - 2nd Test - 2000/01 Frank Worrell Trophy</title>
+    <desc lang="en">Australia v West Indies - 2nd Test - 2000/01 Frank Worrell Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002055300 +0000" stop="20251002075300 +0000">
+    <title lang="en">Australia v West Indies - 4th Test - 2000/01 Frank Worrell Trophy</title>
+    <desc lang="en">Australia v West Indies - 4th Test - 2000/01 Frank Worrell Trophy</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002075300 +0000" stop="20251002080205 +0000">
+    <title lang="en">Aussie bowlers take the honours on opening day | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | First Test, Day 1</title>
+    <desc lang="en">Mitchell Starc set the tone with a wicket off the game's second ball, Nathan Lyon created plenty of chances before removing Cheteshwar Pujara, and Virat Kohli was run out to spark a mini-collapse against the new pink ball on an entertaining first day</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002080205 +0000" stop="20251002081132 +0000">
+    <title lang="en">India take upper hand in enthralling day-night Test | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | First Test, Day 2</title>
+    <desc lang="en">A wicket just before stumps gave Australia a late boost after India took a handy first-innings lead on day two of the first Vodafone Test in Adelaide</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002081132 +0000" stop="20251002082044 +0000">
+    <title lang="en">Adelaide amazes again | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | First Test, Day 3</title>
+    <desc lang="en">Australia started day three looking to limit India's first innings lead, they ended it with an eight-wicket win in under two sessions of play after one of the more remarkable days of Test cricket</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002082044 +0000" stop="20251002083014 +0000">
+    <title lang="en">India’s bowlers fire on entertaining Boxing Day | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Second Test, Day 1</title>
+    <desc lang="en">Eleven wickets fell on the opening day of the second Vodafone Test as India responded to their defeat in Adelaide by rattling Australia’s batters</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002083014 +0000" stop="20251002083915 +0000">
+    <title lang="en">Rahane's unbeaten ton puts India on top | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Second Test, Day 2</title>
+    <desc lang="en">Stand-in India captain Ajinkya Rahane has filled Virat Kohli's imposing shoes in impeccable style with his 12th Test century lifting the tourists to an 82-run first-innings lead over Australia in the second Test</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002083915 +0000" stop="20251002084820 +0000">
+    <title lang="en">Superb India take control after Aussie batting disaster | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Second Test, Day 3</title>
+    <desc lang="en">After being bowled out for 326, India ran through Australia's batting order to the tune of 6-133 on an eventful day three of the second Vodafone Test</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002084820 +0000" stop="20251002085724 +0000">
+    <title lang="en">India level series at MCG with convincing eight-wicket win | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Second Test, Day 4</title>
+    <desc lang="en">Australia rookie Cameron Green put up a fight with a well-made 45 but the home side could only manage a 69-run lead, which India rattled off with minimal fuss despite the early loss of two wickets</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002085724 +0000" stop="20251002090626 +0000">
+    <title lang="en">Labuschagne, Pucovski fifties boost Aussies amid the rain | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Third Test, Day 1</title>
+    <desc lang="en">Test debutant Will Pucovski hit an assured and composed 62 in his maiden knock while Marnus Labuschagne finished unbeaten on 67 as the pair dominated the first day where only 55 overs were possible amid traditional Sydney rain</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002090626 +0000" stop="20251002091555 +0000">
+    <title lang="en">Late wickets boost Australia after Smith hundred | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Third Test, Day 2</title>
+    <desc lang="en">India's bowlers fought back impressively on day two of the third Test before two late wickets brought Australia back into the match</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002091555 +0000" stop="20251002092455 +0000">
+    <title lang="en">Bowling, fielding gives Australia edge | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Third Test, Day 3</title>
+    <desc lang="en">Three run outs and another excellent Australian bowling performance has handed Australia the upper hand over India after three days of the third Test</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002092455 +0000" stop="20251002093325 +0000">
+    <title lang="en">Aussies grab late wickets after Green, Smith fire | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Third Test, Day 4</title>
+    <desc lang="en">Cameron Green posted his highest Test score and Steve Smith impressed again before Australia removed both openers as India look to stave off defeat in the third Test</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002093325 +0000" stop="20251002094354 +0000">
+    <title lang="en">Brave India pull off the great escape at the SCG | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Third Test, Day 5</title>
+    <desc lang="en">A hobbled Hanuma Vihari and a battered Ravichandran Ashwin defy Australia's bowlers for the entire final session after Rishabh Pant and Cheteshwar Pujara laid the platform for a famous drawn Test</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002094354 +0000" stop="20251002095258 +0000">
+    <title lang="en">Honours split on day one at the Gabba | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Fourth Test, Day 1</title>
+    <desc lang="en">Marnus Labuschagne's century was the highlight for the hosts, while India's rookie bowling attack took up the fight to Australia on day one of the fourth Test in Brisbane</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002095258 +0000" stop="20251002095946 +0000">
+    <title lang="en">Cummins and Lyon strike for Aussies before storm arrives | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Fourth Test, Day 2</title>
+    <desc lang="en">India reached 2-62 at the Gabba before the rain arrived, frustrating Australia's hunt for wickets on day two</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002095946 +0000" stop="20251002101014 +0000">
+    <title lang="en">India lower order frustrates Aussies with Test evenly poised | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Fourth Test, Day 3</title>
+    <desc lang="en">A 123-run partnership between Washington Sundar and Shardul Thakur saw India bowled out just 33 runs short of Australia's first innings, with Josh Hazlewood claiming a five-wicket haul, before Australia's openers extended their lead to 54 by stumps</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002101014 +0000" stop="20251002102015 +0000">
+    <title lang="en">Siraj five, Smith runs help set stage for grand finale | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Fourth Test, Day 4</title>
+    <desc lang="en">Australia entered day four looking to press on to build a big lead, but five wickets to Mohammed Siraj and four for Shardul Thakur pegged the home side back, with Steve Smith the only player passing 50, setting up an epic day five finish.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002102015 +0000" stop="20251002102915 +0000">
+    <title lang="en">India claim stunning series win | RAPID REWIND | 2020/21 Border-Gavaskar Trophy | Fourth Test, Day 5</title>
+    <desc lang="en">Rishabh Pant was the hero as an injury-ravaged India ended Australia's 32-year undefeated run at the Gabba, executing a record-breaking final day chase to win the Test by three wickets and the series 2-1</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002102915 +0000" stop="20251002132915 +0000">
+    <title lang="en">Australia v India - Match 1 - 2007/08 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 1 - 2007/08 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002132915 +0000" stop="20251002162916 +0000">
+    <title lang="en">Australia v Sri Lanka - Match 3 - 2007/08 ODI Tri-Series</title>
+    <desc lang="en">Australia v Sri Lanka - Match 3 - 2007/08 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002162916 +0000" stop="20251002192916 +0000">
+    <title lang="en">Australia v India - Match 4 - 2007/08 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 4 - 2007/08 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002192916 +0000" stop="20251002222917 +0000">
+    <title lang="en">2007/08 ODI Tri-Series - Match 5 - India v Sri Lanka</title>
+    <desc lang="en">2007/08 ODI Tri-Series - Match 5 - India v Sri Lanka</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251002222917 +0000" stop="20251003012917 +0000">
+    <title lang="en">2007/08 ODI Tri-Series - Match 6 - Australia v Sri Lanka</title>
+    <desc lang="en">2007/08 ODI Tri-Series - Match 6 - Australia v Sri Lanka</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251002</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003012917 +0000" stop="20251003042918 +0000">
+    <title lang="en">2007/08 ODI Tri-Series - 1st Final - Australia v India</title>
+    <desc lang="en">2007/08 ODI Tri-Series - 1st Final - Australia v India</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003042918 +0000" stop="20251003072919 +0000">
+    <title lang="en">2007/08 ODI Tri-Series - 2nd Final - Australia v India</title>
+    <desc lang="en">2007/08 ODI Tri-Series - 2nd Final - Australia v India</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003072919 +0000" stop="20251003100039 +0000">
+    <title lang="en">BBL|04 - Match 20 - Perth Scorchers v Brisbane Heat</title>
+    <desc lang="en">BBL|04 - Match 20 - Perth Scorchers v Brisbane Heat</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003100039 +0000" stop="20251003125109 +0000">
+    <title lang="en">India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003125109 +0000" stop="20251003154008 +0000">
+    <title lang="en">Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003154008 +0000" stop="20251003183138 +0000">
+    <title lang="en">Australia v India - Match 4 - 2007/08 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 4 - 2007/08 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003183138 +0000" stop="20251003212939 +0000">
+    <title lang="en">Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251003222842 +0000" stop="20251004012843 +0000">
+    <title lang="en">Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251003</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004012843 +0000" stop="20251004042810 +0000">
+    <title lang="en">Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004042810 +0000" stop="20251004070410 +0000">
+    <title lang="en">Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004070410 +0000" stop="20251004094010 +0000">
+    <title lang="en">Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004094010 +0000" stop="20251004124010 +0000">
+    <title lang="en">Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004124010 +0000" stop="20251004154010 +0000">
+    <title lang="en">India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004154010 +0000" stop="20251004184010 +0000">
+    <title lang="en">Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004184010 +0000" stop="20251004214010 +0000">
+    <title lang="en">Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251004214010 +0000" stop="20251005004010 +0000">
+    <title lang="en">India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</title>
+    <desc lang="en">India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251004</date>
+  </programme>
+  <programme channel="ST-5294" start="20251005004010 +0000" stop="20251005023958 +0000">
+    <title lang="en">Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <date>20251005</date>
+  </programme>
+  <programme channel="ST-5294" start="20251005023958 +0000" stop="20251005050153 +0000">
+    <title lang="en">Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <date>20251005</date>
+  </programme>
+  <programme channel="ST-5294" start="20251005050153 +0000" stop="20251005070153 +0000">
+    <title lang="en">Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251005</date>
+  </programme>
+  <programme channel="ST-5294" start="20251005070153 +0000" stop="20251005090153 +0000">
+    <title lang="en">Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc lang="en">Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <date>20251005</date>
+  </programme>
+</tv>
