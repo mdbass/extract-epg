@@ -31,7 +31,8 @@ DISTRO_CHANNEL_IDS = [
     79275,   # beIN SPORTS Xtra
     77840,   # Boxing TV
     136902,  # SportsTVPlus
-    78918    # TNA Wrestling Channel
+    78918,   # TNA Wrestling Channel
+    8087     # FTF SPorts
 ]
 
 # KableOne Channels
