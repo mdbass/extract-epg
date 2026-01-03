@@ -72,62 +72,179 @@
     <display-name>Cricket Gold</display-name>
     <display-name>440</display-name>
   </channel>
-  <programme channel="DS-66501" start="20260101230000 +0000" stop="20260102041300 +0000">
+  <programme channel="DS-66501" start="20260102230000 +0000" stop="20260103041300 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260102041300 +0000" stop="20260102045900 +0000">
+  <programme channel="DS-66501" start="20260103041300 +0000" stop="20260103045900 +0000">
     <title lang="en">Shabad - Kirtan</title>
   </programme>
-  <programme channel="DS-66501" start="20260102045900 +0000" stop="20260102061300 +0000">
+  <programme channel="DS-66501" start="20260103045900 +0000" stop="20260103061300 +0000">
     <title lang="en">Sejah Path</title>
   </programme>
-  <programme channel="DS-66501" start="20260102061300 +0000" stop="20260102062900 +0000">
+  <programme channel="DS-66501" start="20260103061300 +0000" stop="20260103062900 +0000">
     <title lang="en">Shabad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102062900 +0000" stop="20260102070200 +0000">
+  <programme channel="DS-66501" start="20260103062900 +0000" stop="20260103070200 +0000">
     <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102070200 +0000" stop="20260102074400 +0000">
+  <programme channel="DS-66501" start="20260103070200 +0000" stop="20260103074400 +0000">
     <title lang="en">JAYE TINA MILA SAJNA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102074400 +0000" stop="20260102080000 +0000">
+  <programme channel="DS-66501" start="20260103074400 +0000" stop="20260103080000 +0000">
     <title lang="en">SHABAD</title>
   </programme>
-  <programme channel="DS-66501" start="20260102080000 +0000" stop="20260102093200 +0000">
+  <programme channel="DS-66501" start="20260103080000 +0000" stop="20260103093200 +0000">
     <title lang="en">Sukmani Sahib</title>
   </programme>
-  <programme channel="DS-66501" start="20260102093200 +0000" stop="20260102101400 +0000">
+  <programme channel="DS-66501" start="20260103093200 +0000" stop="20260103101400 +0000">
     <title lang="en">Gurmat Sambad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102101400 +0000" stop="20260102115900 +0000">
+  <programme channel="DS-66501" start="20260103101400 +0000" stop="20260103115900 +0000">
     <title lang="en">shabad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102115900 +0000" stop="20260102123000 +0000">
+  <programme channel="DS-66501" start="20260103115900 +0000" stop="20260103123000 +0000">
     <title lang="en">BIRLA AYA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102123000 +0000" stop="20260102130100 +0000">
+  <programme channel="DS-66501" start="20260103123000 +0000" stop="20260103130100 +0000">
     <title lang="en">SHABAD - KIRTAN</title>
   </programme>
-  <programme channel="DS-66501" start="20260102130100 +0000" stop="20260102133000 +0000">
+  <programme channel="DS-66501" start="20260103130100 +0000" stop="20260103133000 +0000">
     <title lang="en">SO KYON MANDA AAKHIYE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102133000 +0000" stop="20260102153100 +0000">
+  <programme channel="DS-66501" start="20260103133000 +0000" stop="20260103153100 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260102153100 +0000" stop="20260102160100 +0000">
+  <programme channel="DS-66501" start="20260103153100 +0000" stop="20260103160100 +0000">
     <title lang="en">NAHI TUDH JEHIA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102160100 +0000" stop="20260102163300 +0000">
+  <programme channel="DS-66501" start="20260103160100 +0000" stop="20260103163300 +0000">
     <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102163300 +0000" stop="20260102171200 +0000">
+  <programme channel="DS-66501" start="20260103163300 +0000" stop="20260103171200 +0000">
     <title lang="en">SO KYON MANDA AKHIYE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102171200 +0000" stop="20260102201200 +0000">
+  <programme channel="DS-66501" start="20260103171200 +0000" stop="20260103201200 +0000">
     <title lang="en">LIVE / RECOREDED EVENTS</title>
   </programme>
-  <programme channel="DS-66501" start="20260102201200 +0000" stop="20260102230000 +0000">
+  <programme channel="DS-66501" start="20260103201200 +0000" stop="20260103230000 +0000">
     <title lang="en">SHABAD- KIRTAN</title>
+  </programme>
+  <programme channel="DS-66501" start="20260103230000 +0000" stop="20260104041300 +0000">
+    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104041300 +0000" stop="20260104045900 +0000">
+    <title lang="en">Shabad - Kirtan</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104045900 +0000" stop="20260104061300 +0000">
+    <title lang="en">Sejah Path</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104061300 +0000" stop="20260104062900 +0000">
+    <title lang="en">Shabad</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104062900 +0000" stop="20260104070200 +0000">
+    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104070200 +0000" stop="20260104074400 +0000">
+    <title lang="en">JAYE TINA MILA SAJNA</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104074400 +0000" stop="20260104080000 +0000">
+    <title lang="en">SHABAD</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104080000 +0000" stop="20260104093200 +0000">
+    <title lang="en">Sukmani Sahib</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104093200 +0000" stop="20260104101400 +0000">
+    <title lang="en">Gurmat Sambad</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104101400 +0000" stop="20260104115900 +0000">
+    <title lang="en">shabad</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104115900 +0000" stop="20260104123000 +0000">
+    <title lang="en">BIRLA AYA</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104123000 +0000" stop="20260104130100 +0000">
+    <title lang="en">SHABAD - KIRTAN</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104130100 +0000" stop="20260104133000 +0000">
+    <title lang="en">SO KYON MANDA AAKHIYE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104133000 +0000" stop="20260104153100 +0000">
+    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104153100 +0000" stop="20260104160100 +0000">
+    <title lang="en">NAHI TUDH JEHIA</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104160100 +0000" stop="20260104163300 +0000">
+    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104163300 +0000" stop="20260104171200 +0000">
+    <title lang="en">SO KYON MANDA AKHIYE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104171200 +0000" stop="20260104201200 +0000">
+    <title lang="en">LIVE / RECOREDED EVENTS</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104201200 +0000" stop="20260104230000 +0000">
+    <title lang="en">SHABAD- KIRTAN</title>
+  </programme>
+  <programme channel="DS-66501" start="20260104230000 +0000" stop="20260105041300 +0000">
+    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105041300 +0000" stop="20260105045900 +0000">
+    <title lang="en">Shabad - Kirtan</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105045900 +0000" stop="20260105061300 +0000">
+    <title lang="en">Sejah Path</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105061300 +0000" stop="20260105062900 +0000">
+    <title lang="en">Shabad</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105062900 +0000" stop="20260105070200 +0000">
+    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105070200 +0000" stop="20260105074400 +0000">
+    <title lang="en">JAYE TINA MILA SAJNA</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105074400 +0000" stop="20260105080000 +0000">
+    <title lang="en">SHABAD</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105080000 +0000" stop="20260105093200 +0000">
+    <title lang="en">Sukmani Sahib</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105093200 +0000" stop="20260105101400 +0000">
+    <title lang="en">Gurmat Sambad</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105101400 +0000" stop="20260105115900 +0000">
+    <title lang="en">shabad</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105115900 +0000" stop="20260105123000 +0000">
+    <title lang="en">BIRLA AYA</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105123000 +0000" stop="20260105130100 +0000">
+    <title lang="en">SHABAD - KIRTAN</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105130100 +0000" stop="20260105133000 +0000">
+    <title lang="en">SO KYON MANDA AAKHIYE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105133000 +0000" stop="20260105153100 +0000">
+    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105153100 +0000" stop="20260105160100 +0000">
+    <title lang="en">NAHI TUDH JEHIA</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105160100 +0000" stop="20260105163300 +0000">
+    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105163300 +0000" stop="20260105171200 +0000">
+    <title lang="en">SO KYON MANDA AKHIYE</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105171200 +0000" stop="20260105201200 +0000">
+    <title lang="en">LIVE / RECOREDED EVENTS</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105201200 +0000" stop="20260105230000 +0000">
+    <title lang="en">SHABAD- KIRTAN</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105230000 +0000" stop="20260106041300 +0000">
+    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
   <programme channel="DS-66501" start="20260102230000 +0000" stop="20260103041300 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
@@ -246,62 +363,62 @@
   <programme channel="DS-66501" start="20260104230000 +0000" stop="20260105041300 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260101230000 +0000" stop="20260102041300 +0000">
-    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
-  </programme>
-  <programme channel="DS-66501" start="20260102041300 +0000" stop="20260102045900 +0000">
+  <programme channel="DS-66501" start="20260105041300 +0000" stop="20260105045900 +0000">
     <title lang="en">Shabad - Kirtan</title>
   </programme>
-  <programme channel="DS-66501" start="20260102045900 +0000" stop="20260102061300 +0000">
+  <programme channel="DS-66501" start="20260105045900 +0000" stop="20260105061300 +0000">
     <title lang="en">Sejah Path</title>
   </programme>
-  <programme channel="DS-66501" start="20260102061300 +0000" stop="20260102062900 +0000">
+  <programme channel="DS-66501" start="20260105061300 +0000" stop="20260105062900 +0000">
     <title lang="en">Shabad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102062900 +0000" stop="20260102070200 +0000">
+  <programme channel="DS-66501" start="20260105062900 +0000" stop="20260105070200 +0000">
     <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102070200 +0000" stop="20260102074400 +0000">
+  <programme channel="DS-66501" start="20260105070200 +0000" stop="20260105074400 +0000">
     <title lang="en">JAYE TINA MILA SAJNA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102074400 +0000" stop="20260102080000 +0000">
+  <programme channel="DS-66501" start="20260105074400 +0000" stop="20260105080000 +0000">
     <title lang="en">SHABAD</title>
   </programme>
-  <programme channel="DS-66501" start="20260102080000 +0000" stop="20260102093200 +0000">
+  <programme channel="DS-66501" start="20260105080000 +0000" stop="20260105093200 +0000">
     <title lang="en">Sukmani Sahib</title>
   </programme>
-  <programme channel="DS-66501" start="20260102093200 +0000" stop="20260102101400 +0000">
+  <programme channel="DS-66501" start="20260105093200 +0000" stop="20260105101400 +0000">
     <title lang="en">Gurmat Sambad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102101400 +0000" stop="20260102115900 +0000">
+  <programme channel="DS-66501" start="20260105101400 +0000" stop="20260105115900 +0000">
     <title lang="en">shabad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102115900 +0000" stop="20260102123000 +0000">
+  <programme channel="DS-66501" start="20260105115900 +0000" stop="20260105123000 +0000">
     <title lang="en">BIRLA AYA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102123000 +0000" stop="20260102130100 +0000">
+  <programme channel="DS-66501" start="20260105123000 +0000" stop="20260105130100 +0000">
     <title lang="en">SHABAD - KIRTAN</title>
   </programme>
-  <programme channel="DS-66501" start="20260102130100 +0000" stop="20260102133000 +0000">
+  <programme channel="DS-66501" start="20260105130100 +0000" stop="20260105133000 +0000">
     <title lang="en">SO KYON MANDA AAKHIYE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102133000 +0000" stop="20260102153100 +0000">
+  <programme channel="DS-66501" start="20260105133000 +0000" stop="20260105153100 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260102153100 +0000" stop="20260102160100 +0000">
+  <programme channel="DS-66501" start="20260105153100 +0000" stop="20260105160100 +0000">
     <title lang="en">NAHI TUDH JEHIA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102160100 +0000" stop="20260102163300 +0000">
+  <programme channel="DS-66501" start="20260105160100 +0000" stop="20260105163300 +0000">
     <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102163300 +0000" stop="20260102171200 +0000">
+  <programme channel="DS-66501" start="20260105163300 +0000" stop="20260105171200 +0000">
     <title lang="en">SO KYON MANDA AKHIYE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102171200 +0000" stop="20260102201200 +0000">
+  <programme channel="DS-66501" start="20260105171200 +0000" stop="20260105201200 +0000">
     <title lang="en">LIVE / RECOREDED EVENTS</title>
   </programme>
-  <programme channel="DS-66501" start="20260102201200 +0000" stop="20260102230000 +0000">
+  <programme channel="DS-66501" start="20260105201200 +0000" stop="20260105230000 +0000">
     <title lang="en">SHABAD- KIRTAN</title>
+  </programme>
+  <programme channel="DS-66501" start="20260105230000 +0000" stop="20260106041300 +0000">
+    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
   <programme channel="DS-66501" start="20260102230000 +0000" stop="20260103041300 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
@@ -420,282 +537,353 @@
   <programme channel="DS-66501" start="20260104230000 +0000" stop="20260105041300 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260101230000 +0000" stop="20260102041300 +0000">
-    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
-  </programme>
-  <programme channel="DS-66501" start="20260102041300 +0000" stop="20260102045900 +0000">
+  <programme channel="DS-66501" start="20260105041300 +0000" stop="20260105045900 +0000">
     <title lang="en">Shabad - Kirtan</title>
   </programme>
-  <programme channel="DS-66501" start="20260102045900 +0000" stop="20260102061300 +0000">
+  <programme channel="DS-66501" start="20260105045900 +0000" stop="20260105061300 +0000">
     <title lang="en">Sejah Path</title>
   </programme>
-  <programme channel="DS-66501" start="20260102061300 +0000" stop="20260102062900 +0000">
+  <programme channel="DS-66501" start="20260105061300 +0000" stop="20260105062900 +0000">
     <title lang="en">Shabad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102062900 +0000" stop="20260102070200 +0000">
+  <programme channel="DS-66501" start="20260105062900 +0000" stop="20260105070200 +0000">
     <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102070200 +0000" stop="20260102074400 +0000">
+  <programme channel="DS-66501" start="20260105070200 +0000" stop="20260105074400 +0000">
     <title lang="en">JAYE TINA MILA SAJNA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102074400 +0000" stop="20260102080000 +0000">
+  <programme channel="DS-66501" start="20260105074400 +0000" stop="20260105080000 +0000">
     <title lang="en">SHABAD</title>
   </programme>
-  <programme channel="DS-66501" start="20260102080000 +0000" stop="20260102093200 +0000">
+  <programme channel="DS-66501" start="20260105080000 +0000" stop="20260105093200 +0000">
     <title lang="en">Sukmani Sahib</title>
   </programme>
-  <programme channel="DS-66501" start="20260102093200 +0000" stop="20260102101400 +0000">
+  <programme channel="DS-66501" start="20260105093200 +0000" stop="20260105101400 +0000">
     <title lang="en">Gurmat Sambad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102101400 +0000" stop="20260102115900 +0000">
+  <programme channel="DS-66501" start="20260105101400 +0000" stop="20260105115900 +0000">
     <title lang="en">shabad</title>
   </programme>
-  <programme channel="DS-66501" start="20260102115900 +0000" stop="20260102123000 +0000">
+  <programme channel="DS-66501" start="20260105115900 +0000" stop="20260105123000 +0000">
     <title lang="en">BIRLA AYA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102123000 +0000" stop="20260102130100 +0000">
+  <programme channel="DS-66501" start="20260105123000 +0000" stop="20260105130100 +0000">
     <title lang="en">SHABAD - KIRTAN</title>
   </programme>
-  <programme channel="DS-66501" start="20260102130100 +0000" stop="20260102133000 +0000">
+  <programme channel="DS-66501" start="20260105130100 +0000" stop="20260105133000 +0000">
     <title lang="en">SO KYON MANDA AAKHIYE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102133000 +0000" stop="20260102153100 +0000">
+  <programme channel="DS-66501" start="20260105133000 +0000" stop="20260105153100 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260102153100 +0000" stop="20260102160100 +0000">
+  <programme channel="DS-66501" start="20260105153100 +0000" stop="20260105160100 +0000">
     <title lang="en">NAHI TUDH JEHIA</title>
   </programme>
-  <programme channel="DS-66501" start="20260102160100 +0000" stop="20260102163300 +0000">
+  <programme channel="DS-66501" start="20260105160100 +0000" stop="20260105163300 +0000">
     <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102163300 +0000" stop="20260102171200 +0000">
+  <programme channel="DS-66501" start="20260105163300 +0000" stop="20260105171200 +0000">
     <title lang="en">SO KYON MANDA AKHIYE</title>
   </programme>
-  <programme channel="DS-66501" start="20260102171200 +0000" stop="20260102201200 +0000">
+  <programme channel="DS-66501" start="20260105171200 +0000" stop="20260105201200 +0000">
     <title lang="en">LIVE / RECOREDED EVENTS</title>
   </programme>
-  <programme channel="DS-66501" start="20260102201200 +0000" stop="20260102230000 +0000">
+  <programme channel="DS-66501" start="20260105201200 +0000" stop="20260105230000 +0000">
     <title lang="en">SHABAD- KIRTAN</title>
   </programme>
-  <programme channel="DS-66501" start="20260102230000 +0000" stop="20260103041300 +0000">
+  <programme channel="DS-66501" start="20260105230000 +0000" stop="20260106041300 +0000">
     <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
   </programme>
-  <programme channel="DS-66501" start="20260103041300 +0000" stop="20260103045900 +0000">
-    <title lang="en">Shabad - Kirtan</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103045900 +0000" stop="20260103061300 +0000">
-    <title lang="en">Sejah Path</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103061300 +0000" stop="20260103062900 +0000">
-    <title lang="en">Shabad</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103062900 +0000" stop="20260103070200 +0000">
-    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103070200 +0000" stop="20260103074400 +0000">
-    <title lang="en">JAYE TINA MILA SAJNA</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103074400 +0000" stop="20260103080000 +0000">
-    <title lang="en">SHABAD</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103080000 +0000" stop="20260103093200 +0000">
-    <title lang="en">Sukmani Sahib</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103093200 +0000" stop="20260103101400 +0000">
-    <title lang="en">Gurmat Sambad</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103101400 +0000" stop="20260103115900 +0000">
-    <title lang="en">shabad</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103115900 +0000" stop="20260103123000 +0000">
-    <title lang="en">BIRLA AYA</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103123000 +0000" stop="20260103130100 +0000">
-    <title lang="en">SHABAD - KIRTAN</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103130100 +0000" stop="20260103133000 +0000">
-    <title lang="en">SO KYON MANDA AAKHIYE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103133000 +0000" stop="20260103153100 +0000">
-    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103153100 +0000" stop="20260103160100 +0000">
-    <title lang="en">NAHI TUDH JEHIA</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103160100 +0000" stop="20260103163300 +0000">
-    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103163300 +0000" stop="20260103171200 +0000">
-    <title lang="en">SO KYON MANDA AKHIYE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103171200 +0000" stop="20260103201200 +0000">
-    <title lang="en">LIVE / RECOREDED EVENTS</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103201200 +0000" stop="20260103230000 +0000">
-    <title lang="en">SHABAD- KIRTAN</title>
-  </programme>
-  <programme channel="DS-66501" start="20260103230000 +0000" stop="20260104041300 +0000">
-    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104041300 +0000" stop="20260104045900 +0000">
-    <title lang="en">Shabad - Kirtan</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104045900 +0000" stop="20260104061300 +0000">
-    <title lang="en">Sejah Path</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104061300 +0000" stop="20260104062900 +0000">
-    <title lang="en">Shabad</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104062900 +0000" stop="20260104070200 +0000">
-    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104070200 +0000" stop="20260104074400 +0000">
-    <title lang="en">JAYE TINA MILA SAJNA</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104074400 +0000" stop="20260104080000 +0000">
-    <title lang="en">SHABAD</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104080000 +0000" stop="20260104093200 +0000">
-    <title lang="en">Sukmani Sahib</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104093200 +0000" stop="20260104101400 +0000">
-    <title lang="en">Gurmat Sambad</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104101400 +0000" stop="20260104115900 +0000">
-    <title lang="en">shabad</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104115900 +0000" stop="20260104123000 +0000">
-    <title lang="en">BIRLA AYA</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104123000 +0000" stop="20260104130100 +0000">
-    <title lang="en">SHABAD - KIRTAN</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104130100 +0000" stop="20260104133000 +0000">
-    <title lang="en">SO KYON MANDA AAKHIYE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104133000 +0000" stop="20260104153100 +0000">
-    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104153100 +0000" stop="20260104160100 +0000">
-    <title lang="en">NAHI TUDH JEHIA</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104160100 +0000" stop="20260104163300 +0000">
-    <title lang="en"> BHAI KULWANT SINGH LUDHIANA WALE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104163300 +0000" stop="20260104171200 +0000">
-    <title lang="en">SO KYON MANDA AKHIYE</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104171200 +0000" stop="20260104201200 +0000">
-    <title lang="en">LIVE / RECOREDED EVENTS</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104201200 +0000" stop="20260104230000 +0000">
-    <title lang="en">SHABAD- KIRTAN</title>
-  </programme>
-  <programme channel="DS-66501" start="20260104230000 +0000" stop="20260105041300 +0000">
-    <title lang="en">Takhat Sri Harimandir Ji Patna Sahib  (BIHAR) live</title>
-  </programme>
-  <programme channel="DS-126109" start="20260102023000 +0000" stop="20260102033000 +0000">
+  <programme channel="DS-126109" start="20260103023000 +0000" stop="20260103033000 +0000">
     <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102033000 +0000" stop="20260102043000 +0000">
+  <programme channel="DS-126109" start="20260103033000 +0000" stop="20260103043000 +0000">
     <title lang="en">FRESH MORNINGS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102043000 +0000" stop="20260102053000 +0000">
-    <title lang="en">FILMY TUNES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102053000 +0000" stop="20260102063000 +0000">
+  <programme channel="DS-126109" start="20260103043000 +0000" stop="20260103053000 +0000">
     <title lang="en">WINTER CHILL BEATS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102063000 +0000" stop="20260102073000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102073000 +0000" stop="20260102083000 +0000">
-    <title lang="en">JATT VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102083000 +0000" stop="20260102093000 +0000">
-    <title lang="en">DESI DHOL DHAMAAL</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102093000 +0000" stop="20260102103000 +0000">
-    <title lang="en">BHANGRA FEVER</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102103000 +0000" stop="20260102110000 +0000">
-    <title lang="en">NEW ON THE CHART</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102110000 +0000" stop="20260102113000 +0000">
-    <title lang="en">HITS OF BOHEMIA</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102113000 +0000" stop="20260102123000 +0000">
-    <title lang="en">WINTER CHILL BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102123000 +0000" stop="20260102133000 +0000">
-    <title lang="en">LAZY EVENING </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102133000 +0000" stop="20260102143000 +0000">
-    <title lang="en">ROMANTIC HITS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102143000 +0000" stop="20260102153000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102153000 +0000" stop="20260102163000 +0000">
+  <programme channel="DS-126109" start="20260103053000 +0000" stop="20260103063000 +0000">
     <title lang="en">POPULAR IN TOWN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102163000 +0000" stop="20260102173000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102173000 +0000" stop="20260102183000 +0000">
+  <programme channel="DS-126109" start="20260103063000 +0000" stop="20260103073000 +0000">
     <title lang="en">PUNJABIYAN DA SWAG</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102183000 +0000" stop="20260102193000 +0000">
-    <title lang="en">PUNJABI TADKA</title>
+  <programme channel="DS-126109" start="20260103073000 +0000" stop="20260103083000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102193000 +0000" stop="20260102203000 +0000">
-    <title lang="en">SUFI SANGEET</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102203000 +0000" stop="20260102213000 +0000">
-    <title lang="en">TICH BUTTON</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102213000 +0000" stop="20260102223000 +0000">
-    <title lang="en">POPULAR IN TOWN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102223000 +0000" stop="20260102230000 +0000">
-    <title lang="en">NEW ON THE CHART</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102230000 +0000" stop="20260102233000 +0000">
-    <title lang="en">GREATEST HITS OF GURDAS MAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102233000 +0000" stop="20260103003000 +0000">
+  <programme channel="DS-126109" start="20260103083000 +0000" stop="20260103093000 +0000">
     <title lang="en">TRENDING BEATS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103003000 +0000" stop="20260103013000 +0000">
+  <programme channel="DS-126109" start="20260103093000 +0000" stop="20260103103000 +0000">
     <title lang="en">DRIVE VALI VIBES</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103013000 +0000" stop="20260103023000 +0000">
+  <programme channel="DS-126109" start="20260103103000 +0000" stop="20260103113000 +0000">
+    <title lang="en">LAZY EVENING</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103113000 +0000" stop="20260103123000 +0000">
+    <title lang="en">BHANGRA FEVER</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103123000 +0000" stop="20260103133000 +0000">
+    <title lang="en">WINTER CHILL BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103133000 +0000" stop="20260103143000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103143000 +0000" stop="20260103153000 +0000">
+    <title lang="en">FRESH FACES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103153000 +0000" stop="20260103163000 +0000">
     <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103163000 +0000" stop="20260103173000 +0000">
+    <title lang="en">TICH BUTTON</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103173000 +0000" stop="20260103183000 +0000">
+    <title lang="en">SUFI SANGEET</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103183000 +0000" stop="20260103193000 +0000">
+    <title lang="en">FRESH FACES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103193000 +0000" stop="20260103203000 +0000">
+    <title lang="en">ROMANTIC HITS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103203000 +0000" stop="20260103213000 +0000">
+    <title lang="en">SUR E SARTAAJ</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103213000 +0000" stop="20260103223000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103223000 +0000" stop="20260103230000 +0000">
+    <title lang="en">MANKIRT AULAKH HITS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103230000 +0000" stop="20260103233000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260103233000 +0000" stop="20260104003000 +0000">
+    <title lang="en">FITNESS FUSION</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104003000 +0000" stop="20260104013000 +0000">
+    <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104013000 +0000" stop="20260104023000 +0000">
+    <title lang="en">BEST OF PARTY HITS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104023000 +0000" stop="20260104033000 +0000">
+    <title lang="en">DESI DHOL DHAMAAL</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104033000 +0000" stop="20260104043000 +0000">
+    <title lang="en">FRESH MORNINGS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104043000 +0000" stop="20260104053000 +0000">
+    <title lang="en">TRENDING BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104053000 +0000" stop="20260104063000 +0000">
+    <title lang="en">WINTER CHILL BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104063000 +0000" stop="20260104073000 +0000">
+    <title lang="en">FRESH FACES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104073000 +0000" stop="20260104083000 +0000">
+    <title lang="en">PUNJABIYAN DA SWAG</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104083000 +0000" stop="20260104093000 +0000">
+    <title lang="en">DRIVE VALI VIBES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104093000 +0000" stop="20260104103000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104103000 +0000" stop="20260104113000 +0000">
+    <title lang="en">LAZY EVENING</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104113000 +0000" stop="20260104123000 +0000">
+    <title lang="en">WINTER CHILL BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104123000 +0000" stop="20260104133000 +0000">
+    <title lang="en">BHANGRA FEVER</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104133000 +0000" stop="20260104143000 +0000">
+    <title lang="en">BEST OF PARTY HITS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104143000 +0000" stop="20260104153000 +0000">
+    <title lang="en">JATT VIBES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104153000 +0000" stop="20260104163000 +0000">
+    <title lang="en">ROMANTIC HITS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104163000 +0000" stop="20260104173000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104173000 +0000" stop="20260104183000 +0000">
+    <title lang="en">PUNJABIYAN DA SWAG</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104183000 +0000" stop="20260104193000 +0000">
+    <title lang="en">SUFI SANGEET</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104193000 +0000" stop="20260104203000 +0000">
+    <title lang="en">FRESH FACES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104203000 +0000" stop="20260104213000 +0000">
+    <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104213000 +0000" stop="20260104223000 +0000">
+    <title lang="en">TICH BUTTON</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104223000 +0000" stop="20260104233000 +0000">
+    <title lang="en">PUNJABIYAN DA SWAG</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260104233000 +0000" stop="20260105003000 +0000">
+    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105003000 +0000" stop="20260105013000 +0000">
+    <title lang="en">DESI DHOL DHAMAAL</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105013000 +0000" stop="20260105023000 +0000">
+    <title lang="en">GIPPY GREWAL HITS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105023000 +0000" stop="20260105033000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105033000 +0000" stop="20260105043000 +0000">
+    <title lang="en">FRESH MORNINGS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105043000 +0000" stop="20260105053000 +0000">
+    <title lang="en">WINTER CHILL BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105053000 +0000" stop="20260105063000 +0000">
+    <title lang="en">PUNJABIYAN DA SWAG</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105063000 +0000" stop="20260105073000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105073000 +0000" stop="20260105083000 +0000">
+    <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105083000 +0000" stop="20260105093000 +0000">
+    <title lang="en">TICH BUTTON</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105093000 +0000" stop="20260105103000 +0000">
+    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105103000 +0000" stop="20260105110000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105110000 +0000" stop="20260105113000 +0000">
+    <title lang="en">REFRESHING TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105113000 +0000" stop="20260105123000 +0000">
+    <title lang="en">LAZY EVENING </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105123000 +0000" stop="20260105133000 +0000">
+    <title lang="en">WINTER CHILL BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105133000 +0000" stop="20260105143000 +0000">
+    <title lang="en">BHANGRA FEVER</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105143000 +0000" stop="20260105153000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105153000 +0000" stop="20260105163000 +0000">
+    <title lang="en">SUFI SANGEET</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105163000 +0000" stop="20260105173000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105173000 +0000" stop="20260105183000 +0000">
+    <title lang="en">DESI DHOL DHAMAAL</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105183000 +0000" stop="20260105193000 +0000">
+    <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105193000 +0000" stop="20260105203000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105203000 +0000" stop="20260105213000 +0000">
+    <title lang="en">FRESH FACES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105213000 +0000" stop="20260105223000 +0000">
+    <title lang="en">SUFI SANGEET</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105223000 +0000" stop="20260105230000 +0000">
+    <title lang="en">NEW ON THE CHART</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105230000 +0000" stop="20260105233000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105233000 +0000" stop="20260106003000 +0000">
+    <title lang="en">FITNESS FUSION</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
   <programme channel="DS-126109" start="20260103023000 +0000" stop="20260103033000 +0000">
@@ -886,108 +1074,108 @@
     <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102023000 +0000" stop="20260102033000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102033000 +0000" stop="20260102043000 +0000">
-    <title lang="en">FRESH MORNINGS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102043000 +0000" stop="20260102053000 +0000">
-    <title lang="en">FILMY TUNES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102053000 +0000" stop="20260102063000 +0000">
-    <title lang="en">WINTER CHILL BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102063000 +0000" stop="20260102073000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102073000 +0000" stop="20260102083000 +0000">
-    <title lang="en">JATT VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102083000 +0000" stop="20260102093000 +0000">
+  <programme channel="DS-126109" start="20260105003000 +0000" stop="20260105013000 +0000">
     <title lang="en">DESI DHOL DHAMAAL</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102093000 +0000" stop="20260102103000 +0000">
-    <title lang="en">BHANGRA FEVER</title>
+  <programme channel="DS-126109" start="20260105013000 +0000" stop="20260105023000 +0000">
+    <title lang="en">GIPPY GREWAL HITS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102103000 +0000" stop="20260102110000 +0000">
-    <title lang="en">NEW ON THE CHART</title>
+  <programme channel="DS-126109" start="20260105023000 +0000" stop="20260105033000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102110000 +0000" stop="20260102113000 +0000">
-    <title lang="en">HITS OF BOHEMIA</title>
+  <programme channel="DS-126109" start="20260105033000 +0000" stop="20260105043000 +0000">
+    <title lang="en">FRESH MORNINGS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102113000 +0000" stop="20260102123000 +0000">
+  <programme channel="DS-126109" start="20260105043000 +0000" stop="20260105053000 +0000">
     <title lang="en">WINTER CHILL BEATS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102123000 +0000" stop="20260102133000 +0000">
-    <title lang="en">LAZY EVENING </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102133000 +0000" stop="20260102143000 +0000">
-    <title lang="en">ROMANTIC HITS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102143000 +0000" stop="20260102153000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102153000 +0000" stop="20260102163000 +0000">
-    <title lang="en">POPULAR IN TOWN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102163000 +0000" stop="20260102173000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102173000 +0000" stop="20260102183000 +0000">
+  <programme channel="DS-126109" start="20260105053000 +0000" stop="20260105063000 +0000">
     <title lang="en">PUNJABIYAN DA SWAG</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102183000 +0000" stop="20260102193000 +0000">
-    <title lang="en">PUNJABI TADKA</title>
+  <programme channel="DS-126109" start="20260105063000 +0000" stop="20260105073000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102193000 +0000" stop="20260102203000 +0000">
-    <title lang="en">SUFI SANGEET</title>
+  <programme channel="DS-126109" start="20260105073000 +0000" stop="20260105083000 +0000">
+    <title lang="en">FILMY TUNES</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102203000 +0000" stop="20260102213000 +0000">
+  <programme channel="DS-126109" start="20260105083000 +0000" stop="20260105093000 +0000">
     <title lang="en">TICH BUTTON</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102213000 +0000" stop="20260102223000 +0000">
+  <programme channel="DS-126109" start="20260105093000 +0000" stop="20260105103000 +0000">
+    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105103000 +0000" stop="20260105110000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105110000 +0000" stop="20260105113000 +0000">
+    <title lang="en">REFRESHING TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105113000 +0000" stop="20260105123000 +0000">
+    <title lang="en">LAZY EVENING </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105123000 +0000" stop="20260105133000 +0000">
+    <title lang="en">WINTER CHILL BEATS</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105133000 +0000" stop="20260105143000 +0000">
+    <title lang="en">BHANGRA FEVER</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105143000 +0000" stop="20260105153000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105153000 +0000" stop="20260105163000 +0000">
+    <title lang="en">SUFI SANGEET</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105163000 +0000" stop="20260105173000 +0000">
     <title lang="en">POPULAR IN TOWN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102223000 +0000" stop="20260102230000 +0000">
+  <programme channel="DS-126109" start="20260105173000 +0000" stop="20260105183000 +0000">
+    <title lang="en">DESI DHOL DHAMAAL</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105183000 +0000" stop="20260105193000 +0000">
+    <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105193000 +0000" stop="20260105203000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105203000 +0000" stop="20260105213000 +0000">
+    <title lang="en">FRESH FACES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105213000 +0000" stop="20260105223000 +0000">
+    <title lang="en">SUFI SANGEET</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105223000 +0000" stop="20260105230000 +0000">
     <title lang="en">NEW ON THE CHART</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102230000 +0000" stop="20260102233000 +0000">
-    <title lang="en">GREATEST HITS OF GURDAS MAAN</title>
+  <programme channel="DS-126109" start="20260105230000 +0000" stop="20260105233000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102233000 +0000" stop="20260103003000 +0000">
-    <title lang="en">TRENDING BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103003000 +0000" stop="20260103013000 +0000">
-    <title lang="en">DRIVE VALI VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103013000 +0000" stop="20260103023000 +0000">
-    <title lang="en">FILMY TUNES</title>
+  <programme channel="DS-126109" start="20260105233000 +0000" stop="20260106003000 +0000">
+    <title lang="en">FITNESS FUSION</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
   <programme channel="DS-126109" start="20260103023000 +0000" stop="20260103033000 +0000">
@@ -1178,477 +1366,233 @@
     <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102023000 +0000" stop="20260102033000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102033000 +0000" stop="20260102043000 +0000">
-    <title lang="en">FRESH MORNINGS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102043000 +0000" stop="20260102053000 +0000">
-    <title lang="en">FILMY TUNES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102053000 +0000" stop="20260102063000 +0000">
-    <title lang="en">WINTER CHILL BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102063000 +0000" stop="20260102073000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102073000 +0000" stop="20260102083000 +0000">
-    <title lang="en">JATT VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102083000 +0000" stop="20260102093000 +0000">
+  <programme channel="DS-126109" start="20260105003000 +0000" stop="20260105013000 +0000">
     <title lang="en">DESI DHOL DHAMAAL</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102093000 +0000" stop="20260102103000 +0000">
-    <title lang="en">BHANGRA FEVER</title>
+  <programme channel="DS-126109" start="20260105013000 +0000" stop="20260105023000 +0000">
+    <title lang="en">GIPPY GREWAL HITS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102103000 +0000" stop="20260102110000 +0000">
-    <title lang="en">NEW ON THE CHART</title>
+  <programme channel="DS-126109" start="20260105023000 +0000" stop="20260105033000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102110000 +0000" stop="20260102113000 +0000">
-    <title lang="en">HITS OF BOHEMIA</title>
+  <programme channel="DS-126109" start="20260105033000 +0000" stop="20260105043000 +0000">
+    <title lang="en">FRESH MORNINGS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102113000 +0000" stop="20260102123000 +0000">
+  <programme channel="DS-126109" start="20260105043000 +0000" stop="20260105053000 +0000">
     <title lang="en">WINTER CHILL BEATS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102123000 +0000" stop="20260102133000 +0000">
+  <programme channel="DS-126109" start="20260105053000 +0000" stop="20260105063000 +0000">
+    <title lang="en">PUNJABIYAN DA SWAG</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105063000 +0000" stop="20260105073000 +0000">
+    <title lang="en">DHAMAKEDAAR BEATS </title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105073000 +0000" stop="20260105083000 +0000">
+    <title lang="en">FILMY TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105083000 +0000" stop="20260105093000 +0000">
+    <title lang="en">TICH BUTTON</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105093000 +0000" stop="20260105103000 +0000">
+    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105103000 +0000" stop="20260105110000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105110000 +0000" stop="20260105113000 +0000">
+    <title lang="en">REFRESHING TUNES</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
+  </programme>
+  <programme channel="DS-126109" start="20260105113000 +0000" stop="20260105123000 +0000">
     <title lang="en">LAZY EVENING </title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260102133000 +0000" stop="20260102143000 +0000">
-    <title lang="en">ROMANTIC HITS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102143000 +0000" stop="20260102153000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102153000 +0000" stop="20260102163000 +0000">
-    <title lang="en">POPULAR IN TOWN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102163000 +0000" stop="20260102173000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102173000 +0000" stop="20260102183000 +0000">
-    <title lang="en">PUNJABIYAN DA SWAG</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102183000 +0000" stop="20260102193000 +0000">
-    <title lang="en">PUNJABI TADKA</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102193000 +0000" stop="20260102203000 +0000">
-    <title lang="en">SUFI SANGEET</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102203000 +0000" stop="20260102213000 +0000">
-    <title lang="en">TICH BUTTON</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102213000 +0000" stop="20260102223000 +0000">
-    <title lang="en">POPULAR IN TOWN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102223000 +0000" stop="20260102230000 +0000">
-    <title lang="en">NEW ON THE CHART</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102230000 +0000" stop="20260102233000 +0000">
-    <title lang="en">GREATEST HITS OF GURDAS MAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260102233000 +0000" stop="20260103003000 +0000">
-    <title lang="en">TRENDING BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103003000 +0000" stop="20260103013000 +0000">
-    <title lang="en">DRIVE VALI VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103013000 +0000" stop="20260103023000 +0000">
-    <title lang="en">FILMY TUNES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103023000 +0000" stop="20260103033000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103033000 +0000" stop="20260103043000 +0000">
-    <title lang="en">FRESH MORNINGS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103043000 +0000" stop="20260103053000 +0000">
+  <programme channel="DS-126109" start="20260105123000 +0000" stop="20260105133000 +0000">
     <title lang="en">WINTER CHILL BEATS</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103053000 +0000" stop="20260103063000 +0000">
-    <title lang="en">POPULAR IN TOWN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103063000 +0000" stop="20260103073000 +0000">
-    <title lang="en">PUNJABIYAN DA SWAG</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103073000 +0000" stop="20260103083000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103083000 +0000" stop="20260103093000 +0000">
-    <title lang="en">TRENDING BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103093000 +0000" stop="20260103103000 +0000">
-    <title lang="en">DRIVE VALI VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103103000 +0000" stop="20260103113000 +0000">
-    <title lang="en">LAZY EVENING</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103113000 +0000" stop="20260103123000 +0000">
+  <programme channel="DS-126109" start="20260105133000 +0000" stop="20260105143000 +0000">
     <title lang="en">BHANGRA FEVER</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103123000 +0000" stop="20260103133000 +0000">
-    <title lang="en">WINTER CHILL BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103133000 +0000" stop="20260103143000 +0000">
+  <programme channel="DS-126109" start="20260105143000 +0000" stop="20260105153000 +0000">
     <title lang="en">DHAMAKEDAAR BEATS </title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103143000 +0000" stop="20260103153000 +0000">
-    <title lang="en">FRESH FACES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103153000 +0000" stop="20260103163000 +0000">
-    <title lang="en">FILMY TUNES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103163000 +0000" stop="20260103173000 +0000">
-    <title lang="en">TICH BUTTON</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103173000 +0000" stop="20260103183000 +0000">
+  <programme channel="DS-126109" start="20260105153000 +0000" stop="20260105163000 +0000">
     <title lang="en">SUFI SANGEET</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103183000 +0000" stop="20260103193000 +0000">
-    <title lang="en">FRESH FACES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103193000 +0000" stop="20260103203000 +0000">
-    <title lang="en">ROMANTIC HITS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103203000 +0000" stop="20260103213000 +0000">
-    <title lang="en">SUR E SARTAAJ</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103213000 +0000" stop="20260103223000 +0000">
+  <programme channel="DS-126109" start="20260105163000 +0000" stop="20260105173000 +0000">
     <title lang="en">POPULAR IN TOWN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260103223000 +0000" stop="20260103230000 +0000">
-    <title lang="en">MANKIRT AULAKH HITS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103230000 +0000" stop="20260103233000 +0000">
-    <title lang="en">HITS OF BOHEMIA</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260103233000 +0000" stop="20260104003000 +0000">
-    <title lang="en">FITNESS FUSION</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104003000 +0000" stop="20260104013000 +0000">
-    <title lang="en">FILMY TUNES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104013000 +0000" stop="20260104023000 +0000">
-    <title lang="en">BEST OF PARTY HITS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104023000 +0000" stop="20260104033000 +0000">
+  <programme channel="DS-126109" start="20260105173000 +0000" stop="20260105183000 +0000">
     <title lang="en">DESI DHOL DHAMAAL</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260104033000 +0000" stop="20260104043000 +0000">
-    <title lang="en">FRESH MORNINGS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104043000 +0000" stop="20260104053000 +0000">
-    <title lang="en">TRENDING BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104053000 +0000" stop="20260104063000 +0000">
-    <title lang="en">WINTER CHILL BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104063000 +0000" stop="20260104073000 +0000">
-    <title lang="en">FRESH FACES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104073000 +0000" stop="20260104083000 +0000">
-    <title lang="en">PUNJABIYAN DA SWAG</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104083000 +0000" stop="20260104093000 +0000">
-    <title lang="en">DRIVE VALI VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104093000 +0000" stop="20260104103000 +0000">
-    <title lang="en">DHAMAKEDAAR BEATS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104103000 +0000" stop="20260104113000 +0000">
-    <title lang="en">LAZY EVENING</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104113000 +0000" stop="20260104123000 +0000">
-    <title lang="en">WINTER CHILL BEATS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104123000 +0000" stop="20260104133000 +0000">
-    <title lang="en">BHANGRA FEVER</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104133000 +0000" stop="20260104143000 +0000">
-    <title lang="en">BEST OF PARTY HITS </title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104143000 +0000" stop="20260104153000 +0000">
-    <title lang="en">JATT VIBES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104153000 +0000" stop="20260104163000 +0000">
-    <title lang="en">ROMANTIC HITS</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104163000 +0000" stop="20260104173000 +0000">
-    <title lang="en">POPULAR IN TOWN</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104173000 +0000" stop="20260104183000 +0000">
-    <title lang="en">PUNJABIYAN DA SWAG</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104183000 +0000" stop="20260104193000 +0000">
-    <title lang="en">SUFI SANGEET</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104193000 +0000" stop="20260104203000 +0000">
-    <title lang="en">FRESH FACES</title>
-    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
-  </programme>
-  <programme channel="DS-126109" start="20260104203000 +0000" stop="20260104213000 +0000">
+  <programme channel="DS-126109" start="20260105183000 +0000" stop="20260105193000 +0000">
     <title lang="en">FILMY TUNES</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260104213000 +0000" stop="20260104223000 +0000">
-    <title lang="en">TICH BUTTON</title>
+  <programme channel="DS-126109" start="20260105193000 +0000" stop="20260105203000 +0000">
+    <title lang="en">POPULAR IN TOWN</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260104223000 +0000" stop="20260104233000 +0000">
-    <title lang="en">PUNJABIYAN DA SWAG</title>
+  <programme channel="DS-126109" start="20260105203000 +0000" stop="20260105213000 +0000">
+    <title lang="en">FRESH FACES</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="DS-126109" start="20260104233000 +0000" stop="20260105003000 +0000">
-    <title lang="en">KUDIYAAN PUNJAB DIYAAN</title>
+  <programme channel="DS-126109" start="20260105213000 +0000" stop="20260105223000 +0000">
+    <title lang="en">SUFI SANGEET</title>
     <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="KO-32" start="20260102030000 +0000" stop="20260102033000 +0000">
-    <title lang="en">Punjabi News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
+  <programme channel="DS-126109" start="20260105223000 +0000" stop="20260105230000 +0000">
+    <title lang="en">NEW ON THE CHART</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="KO-32" start="20260102033000 +0000" stop="20260102040000 +0000">
-    <title lang="en">Bolda Punjab</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_5e55.jpg"/>
+  <programme channel="DS-126109" start="20260105230000 +0000" stop="20260105233000 +0000">
+    <title lang="en">HITS OF BOHEMIA</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="KO-32" start="20260102040000 +0000" stop="20260102043000 +0000">
-    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_f89d.jpg"/>
+  <programme channel="DS-126109" start="20260105233000 +0000" stop="20260106003000 +0000">
+    <title lang="en">FITNESS FUSION</title>
+    <desc lang="en">The divine and sufi songs which touch the souls are scheduled in this slot.</desc>
   </programme>
-  <programme channel="KO-32" start="20260102043000 +0000" stop="20260102045900 +0000">
-    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260102050000 +0000" stop="20260102053000 +0000">
+  <programme channel="KO-32" start="20260104050000 +0000" stop="20260104053000 +0000">
     <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_ccae.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102053000 +0000" stop="20260102060000 +0000">
+  <programme channel="KO-32" start="20260104053000 +0000" stop="20260104060000 +0000">
     <title lang="en">Japuji Sahib &amp; Choupai Sahib</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/JapujiSahib&amp;ChoupaiSahib_1529.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102060000 +0000" stop="20260102080000 +0000">
+  <programme channel="KO-32" start="20260104060000 +0000" stop="20260104080000 +0000">
     <title lang="en">Sukhmani Sahib Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SukhmaniSahibSriBanglaSahibJi_d24c.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102080000 +0000" stop="20260102091500 +0000">
+  <programme channel="KO-32" start="20260104080000 +0000" stop="20260104091500 +0000">
     <title lang="en">Nitname Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NitnameSriBanglaSahibJi_9162.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102091500 +0000" stop="20260102114500 +0000">
+  <programme channel="KO-32" start="20260104091500 +0000" stop="20260104114500 +0000">
     <title lang="en">Assa Di Vaar Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AssaDiVaarSriBanglaSahibJi_d9d5.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102114500 +0000" stop="20260102123000 +0000">
+  <programme channel="KO-32" start="20260104114500 +0000" stop="20260104123000 +0000">
     <title lang="en">Katha Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102123000 +0000" stop="20260102130000 +0000">
+  <programme channel="KO-32" start="20260104123000 +0000" stop="20260104130000 +0000">
     <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_4b5e.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102130000 +0000" stop="20260102133000 +0000">
+  <programme channel="KO-32" start="20260104130000 +0000" stop="20260104133000 +0000">
     <title lang="en">Daata Ji Mehar Karo</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_1c2c.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102133000 +0000" stop="20260102140000 +0000">
+  <programme channel="KO-32" start="20260104133000 +0000" stop="20260104140000 +0000">
     <title lang="en">Khabar Te Nazar</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102140000 +0000" stop="20260102143000 +0000">
+  <programme channel="KO-32" start="20260104140000 +0000" stop="20260104143000 +0000">
     <title lang="en">Khabar Te Nazar</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102143000 +0000" stop="20260102144500 +0000">
+  <programme channel="KO-32" start="20260104143000 +0000" stop="20260104144500 +0000">
     <title lang="en">Punjabi News</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102144500 +0000" stop="20260102150000 +0000">
+  <programme channel="KO-32" start="20260104144500 +0000" stop="20260104150000 +0000">
     <title lang="en">World News</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_4c2a.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102150000 +0000" stop="20260102153000 +0000">
+  <programme channel="KO-32" start="20260104150000 +0000" stop="20260104153000 +0000">
     <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_05f8.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102153000 +0000" stop="20260102160000 +0000">
+  <programme channel="KO-32" start="20260104153000 +0000" stop="20260104160000 +0000">
     <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_05f8.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102160000 +0000" stop="20260102163000 +0000">
+  <programme channel="KO-32" start="20260104160000 +0000" stop="20260104163000 +0000">
     <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102163000 +0000" stop="20260102170000 +0000">
+  <programme channel="KO-32" start="20260104163000 +0000" stop="20260104170000 +0000">
     <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102170000 +0000" stop="20260102173000 +0000">
+  <programme channel="KO-32" start="20260104170000 +0000" stop="20260104173000 +0000">
     <title lang="en">Khabar Insight</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_729c.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102173000 +0000" stop="20260102180000 +0000">
+  <programme channel="KO-32" start="20260104173000 +0000" stop="20260104180000 +0000">
     <title lang="en">The Harsukh Show</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/TheHarsukhShow_a257.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102180000 +0000" stop="20260102183000 +0000">
+  <programme channel="KO-32" start="20260104180000 +0000" stop="20260104183000 +0000">
     <title lang="en">North America City Bytes</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/NorthAmericaCityBytes_6ad3.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102183000 +0000" stop="20260102190000 +0000">
+  <programme channel="KO-32" start="20260104183000 +0000" stop="20260104190000 +0000">
     <title lang="en">Music Time</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_ba22.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102190000 +0000" stop="20260102193000 +0000">
+  <programme channel="KO-32" start="20260104190000 +0000" stop="20260104193000 +0000">
     <title lang="en">Travel Masti</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/TravelMasti_3a61.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102193000 +0000" stop="20260102194500 +0000">
+  <programme channel="KO-32" start="20260104193000 +0000" stop="20260104194500 +0000">
     <title lang="en">Punjabi News</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102194500 +0000" stop="20260102200000 +0000">
+  <programme channel="KO-32" start="20260104194500 +0000" stop="20260104200000 +0000">
     <title lang="en">World News</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_4c2a.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102200000 +0000" stop="20260102203000 +0000">
+  <programme channel="KO-32" start="20260104200000 +0000" stop="20260104203000 +0000">
     <title lang="en">Ajj de mudde</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_b605.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102203000 +0000" stop="20260102210000 +0000">
+  <programme channel="KO-32" start="20260104203000 +0000" stop="20260104210000 +0000">
     <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102210000 +0000" stop="20260102213000 +0000">
+  <programme channel="KO-32" start="20260104210000 +0000" stop="20260104213000 +0000">
     <title lang="en">Rehraas Sahib Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/RehraasSahibSriBanglaSahibJi_d917.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102213000 +0000" stop="20260102220000 +0000">
+  <programme channel="KO-32" start="20260104213000 +0000" stop="20260104220000 +0000">
     <title lang="en">Rehraas Sahib Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/RehraasSahibSriBanglaSahibJi_d917.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102220000 +0000" stop="20260102223000 +0000">
+  <programme channel="KO-32" start="20260104220000 +0000" stop="20260104223000 +0000">
     <title lang="en">Katha Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102223000 +0000" stop="20260102230000 +0000">
+  <programme channel="KO-32" start="20260104223000 +0000" stop="20260104230000 +0000">
     <title lang="en">Katha Sri Bangla Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KathaSriBanglaSahibJi_b4ae.jpeg"/>
   </programme>
-  <programme channel="KO-32" start="20260102230000 +0000" stop="20260102233000 +0000">
+  <programme channel="KO-32" start="20260104230000 +0000" stop="20260104233000 +0000">
     <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
   </programme>
-  <programme channel="KO-32" start="20260102233000 +0000" stop="20260103000000 +0000">
+  <programme channel="KO-32" start="20260104233000 +0000" stop="20260105000000 +0000">
     <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103000000 +0000" stop="20260103003000 +0000">
-    <title lang="en">Charcha The Discussion</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_06d3.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103003000 +0000" stop="20260103010000 +0000">
-    <title lang="en">Charcha The Discussion</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_06d3.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103010000 +0000" stop="20260103013000 +0000">
-    <title lang="en">Phone ka Funda</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PhonekaFunda_5bae.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103013000 +0000" stop="20260103020000 +0000">
-    <title lang="en">Khabar Te Nazar</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103020000 +0000" stop="20260103023000 +0000">
-    <title lang="en">Khabar Te Nazar</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103023000 +0000" stop="20260103030000 +0000">
-    <title lang="en">Chah da Cup te Gup Shup with Manju Walia</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChahDacupTeGupshupwithmanjuwalia_85b6.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103030000 +0000" stop="20260103033000 +0000">
-    <title lang="en">Punjabi News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103033000 +0000" stop="20260103040000 +0000">
-    <title lang="en">Bolda Punjab</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_5e55.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103040000 +0000" stop="20260103043000 +0000">
-    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_f89d.jpg"/>
-  </programme>
-  <programme channel="KO-32" start="20260103043000 +0000" stop="20260103045900 +0000">
-    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
   </programme>
   <programme channel="KO-32" start="20260103050000 +0000" stop="20260103053000 +0000">
     <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
@@ -1774,181 +1718,61 @@
     <title lang="en">Gurdwara Dashmesh Darbar (Salem,Oregon)</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_86c0.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102031500 +0000" stop="20260102035000 +0000">
+  <programme channel="KO-32" start="20260104000000 +0000" stop="20260104003000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_06d3.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20260104003000 +0000" stop="20260104010000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_06d3.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20260104010000 +0000" stop="20260104013000 +0000">
+    <title lang="en">Phone ka Funda</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PhonekaFunda_5bae.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20260104013000 +0000" stop="20260104020000 +0000">
     <title lang="en">Khabar Te Nazar</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_d13d.jpg"/>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102035000 +0000" stop="20260102043000 +0000">
-    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102043000 +0000" stop="20260102050000 +0000">
+  <programme channel="KO-32" start="20260104020000 +0000" stop="20260104023000 +0000">
     <title lang="en">Khabar Te Nazar</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_d13d.jpg"/>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_ed09.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102050000 +0000" stop="20260102052500 +0000">
+  <programme channel="KO-32" start="20260104023000 +0000" stop="20260104030000 +0000">
+    <title lang="en">Chah da Cup te Gup Shup with Manju Walia</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChahDacupTeGupshupwithmanjuwalia_85b6.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20260104030000 +0000" stop="20260104033000 +0000">
     <title lang="en">Punjabi News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102052500 +0000" stop="20260102053000 +0000">
-    <title lang="en">Haryana Diary</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102053000 +0000" stop="20260102060000 +0000">
-    <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_8e53.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102060000 +0000" stop="20260102063000 +0000">
-    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102063000 +0000" stop="20260102065000 +0000">
-    <title lang="en">Path Sri Japji Sahib</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PathSriJapjiSahib_8eba.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102065000 +0000" stop="20260102070000 +0000">
-    <title lang="en">Chaupai Sahib</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChaupaiSahib_103e.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102070000 +0000" stop="20260102073000 +0000">
-    <title lang="en">Charcha The Discussion</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102073000 +0000" stop="20260102074500 +0000">
-    <title lang="en">Charcha The Discussion</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102074500 +0000" stop="20260102080000 +0000">
-    <title lang="en">Aj de Mudde</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_a304.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102080000 +0000" stop="20260102083000 +0000">
-    <title lang="en">Punjabi News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102083000 +0000" stop="20260102090000 +0000">
-    <title lang="en">Phone Ka Funda</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PhoneKaFunda_9a01.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102090000 +0000" stop="20260102093000 +0000">
-    <title lang="en">Phone Ka Funda</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PhoneKaFunda_9a01.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102093000 +0000" stop="20260102094500 +0000">
-    <title lang="en">Khabar Insight</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_b79e.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102094500 +0000" stop="20260102100000 +0000">
-    <title lang="en">Punjab Haryana Gail Gail</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabHaryanaGailGail_8c1d.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102100000 +0000" stop="20260102101500 +0000">
-    <title lang="en">Travel Masti</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/TravelMasti_075d.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102101500 +0000" stop="20260102103000 +0000">
-    <title lang="en">Travel Masti</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/TravelMasti_075d.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102103000 +0000" stop="20260102105000 +0000">
-    <title lang="en">Haryana News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaNews_4bca.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102105000 +0000" stop="20260102110000 +0000">
-    <title lang="en">Uttrakhand News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102110000 +0000" stop="20260102111500 +0000">
-    <title lang="en">Uttar Pradesh News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttarPardeshNews_b2c9.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102111500 +0000" stop="20260102113000 +0000">
-    <title lang="en">Punjabi News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102113000 +0000" stop="20260102120000 +0000">
-    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_9fb3.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102120000 +0000" stop="20260102130000 +0000">
-    <title lang="en">Charcha The Discussion</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102130000 +0000" stop="20260102130500 +0000">
-    <title lang="en">Haryana Diary</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102130500 +0000" stop="20260102131500 +0000">
-    <title lang="en">Top 10 News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Top10News_6d78.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102131500 +0000" stop="20260102133000 +0000">
-    <title lang="en">Speed News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SpeedNews_a15b.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102133000 +0000" stop="20260102143000 +0000">
-    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102143000 +0000" stop="20260102153000 +0000">
-    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102153000 +0000" stop="20260102154000 +0000">
-    <title lang="en">Chardikla Fast News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102154000 +0000" stop="20260102161500 +0000">
+  <programme channel="KO-32" start="20260104033000 +0000" stop="20260104040000 +0000">
     <title lang="en">Bolda Punjab</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_dbf5.jpg"/>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_5e55.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102161500 +0000" stop="20260102164500 +0000">
-    <title lang="en">Punjabi News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  <programme channel="KO-32" start="20260104040000 +0000" stop="20260104043000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_f89d.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102164500 +0000" stop="20260102170000 +0000">
-    <title lang="en">World News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_2572.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102170000 +0000" stop="20260102171500 +0000">
-    <title lang="en">Uttrakhand News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102171500 +0000" stop="20260102174500 +0000">
-    <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_dd99.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102174500 +0000" stop="20260102181500 +0000">
-    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_d6bc.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102181500 +0000" stop="20260102182900 +0000">
-    <title lang="en">Chardikla Fast News</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102183000 +0000" stop="20260102184500 +0000">
-    <title lang="en">Music Time</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102184500 +0000" stop="20260102193000 +0000">
-    <title lang="en">Music Time</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
-  </programme>
-  <programme channel="KO-30" start="20260102193000 +0000" stop="20260102200000 +0000">
+  <programme channel="KO-32" start="20260104043000 +0000" stop="20260104045900 +0000">
     <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102200000 +0000" stop="20260102203000 +0000">
-    <title lang="en">Religious</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
+  <programme channel="KO-32" start="20260103030000 +0000" stop="20260103033000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_9885.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260102203000 +0000" stop="20260103030000 +0000">
-    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
+  <programme channel="KO-32" start="20260103033000 +0000" stop="20260103040000 +0000">
+    <title lang="en">Bolda Punjab</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_5e55.jpg"/>
   </programme>
-  <programme channel="KO-30" start="20260103030000 +0000" stop="20260103031500 +0000">
-    <title lang="en">Religious</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
+  <programme channel="KO-32" start="20260103040000 +0000" stop="20260103043000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_f89d.jpg"/>
+  </programme>
+  <programme channel="KO-32" start="20260103043000 +0000" stop="20260103045900 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_ae3c.jpg"/>
   </programme>
   <programme channel="KO-30" start="20260103031500 +0000" stop="20260103035000 +0000">
     <title lang="en">Khabar Te Nazar</title>
@@ -2122,21 +1946,181 @@
     <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102183000 +0000" stop="20260102190000 +0000">
-    <title lang="en">Japuji Sahib &amp; Choupai Sahib</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/JapujiSahib&amp;ChoupaiSahib_9d28.jpg"/>
+  <programme channel="KO-30" start="20260104030000 +0000" stop="20260104031500 +0000">
+    <title lang="en">Religious</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102190000 +0000" stop="20260102193000 +0000">
-    <title lang="en">Daata Ji Mehar Karo</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
+  <programme channel="KO-30" start="20260104031500 +0000" stop="20260104035000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_d13d.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102193000 +0000" stop="20260102200000 +0000">
-    <title lang="en">Chandi Di Waar</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChandiDiWaar_b769.jpg"/>
+  <programme channel="KO-30" start="20260104035000 +0000" stop="20260104043000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102200000 +0000" stop="20260102201000 +0000">
-    <title lang="en">Choupai Sahib</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
+  <programme channel="KO-30" start="20260104043000 +0000" stop="20260104050000 +0000">
+    <title lang="en">Khabar Te Nazar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarTeNazar_d13d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104050000 +0000" stop="20260104052500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104052500 +0000" stop="20260104053000 +0000">
+    <title lang="en">Haryana Diary</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104053000 +0000" stop="20260104060000 +0000">
+    <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_8e53.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104060000 +0000" stop="20260104063000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104063000 +0000" stop="20260104065000 +0000">
+    <title lang="en">Path Sri Japji Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PathSriJapjiSahib_8eba.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104065000 +0000" stop="20260104070000 +0000">
+    <title lang="en">Chaupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChaupaiSahib_103e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104070000 +0000" stop="20260104073000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104073000 +0000" stop="20260104074500 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104074500 +0000" stop="20260104080000 +0000">
+    <title lang="en">Aj de Mudde</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Ajjdemudde_a304.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104080000 +0000" stop="20260104083000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104083000 +0000" stop="20260104090000 +0000">
+    <title lang="en">Chardikla Talks</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaTalks_1b9d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104090000 +0000" stop="20260104093000 +0000">
+    <title lang="en">Social Fever</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SocialFever_ed6e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104093000 +0000" stop="20260104094500 +0000">
+    <title lang="en">Khabar Insight</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhabarInsight_b79e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104094500 +0000" stop="20260104100000 +0000">
+    <title lang="en">Punjab Haryana Gail Gail</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabHaryanaGailGail_8c1d.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104100000 +0000" stop="20260104101500 +0000">
+    <title lang="en">Khaas Mulaqat</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhaasMulaqat_be4e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104101500 +0000" stop="20260104103000 +0000">
+    <title lang="en">Khaas Mulaqat</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/KhaasMulaqat_be4e.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104103000 +0000" stop="20260104105000 +0000">
+    <title lang="en">Haryana News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaNews_4bca.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104105000 +0000" stop="20260104110000 +0000">
+    <title lang="en">Uttrakhand News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104110000 +0000" stop="20260104111500 +0000">
+    <title lang="en">Uttar Pradesh News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttarPardeshNews_b2c9.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104111500 +0000" stop="20260104113000 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104113000 +0000" stop="20260104120000 +0000">
+    <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_9fb3.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104120000 +0000" stop="20260104130000 +0000">
+    <title lang="en">Charcha The Discussion</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/CharchaTheDiscussion_993a.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104130000 +0000" stop="20260104130500 +0000">
+    <title lang="en">Haryana Diary</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/HaryanaDiary_ef08.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104130500 +0000" stop="20260104131500 +0000">
+    <title lang="en">Top 10 News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Top10News_6d78.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104131500 +0000" stop="20260104133000 +0000">
+    <title lang="en">Speed News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SpeedNews_a15b.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104133000 +0000" stop="20260104143000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104143000 +0000" stop="20260104153000 +0000">
+    <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_0c93.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104153000 +0000" stop="20260104154000 +0000">
+    <title lang="en">Chardikla Fast News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104154000 +0000" stop="20260104161500 +0000">
+    <title lang="en">Bolda Punjab</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/BoldaPunjab_dbf5.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104161500 +0000" stop="20260104164500 +0000">
+    <title lang="en">Punjabi News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/PunjabiNews_f248.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104164500 +0000" stop="20260104170000 +0000">
+    <title lang="en">World News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/WorldNews_2572.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104170000 +0000" stop="20260104171500 +0000">
+    <title lang="en">Uttrakhand News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/UttrakhandNews_a57c.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104171500 +0000" stop="20260104174500 +0000">
+    <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_dd99.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104174500 +0000" stop="20260104181500 +0000">
+    <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_d6bc.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104181500 +0000" stop="20260104182900 +0000">
+    <title lang="en">Chardikla Fast News</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChardiklaFastNews_1451.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104183000 +0000" stop="20260104190000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104190000 +0000" stop="20260104193000 +0000">
+    <title lang="en">Music Time</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/MusicTime_7ca4.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104193000 +0000" stop="20260104200000 +0000">
+    <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_1fe1.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104200000 +0000" stop="20260104203000 +0000">
+    <title lang="en">Religious</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/Religious_7b58.jpg"/>
+  </programme>
+  <programme channel="KO-30" start="20260104203000 +0000" stop="20260105030000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_33d6.jpg"/>
   </programme>
   <programme channel="KO-31" start="20260102201000 +0000" stop="20260103040000 +0000">
     <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
@@ -2222,147 +2206,85 @@
     <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260101201000 +0000" stop="20260102040000 +0000">
-    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
-    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
-  </programme>
-  <programme channel="KO-31" start="20260102040000 +0000" stop="20260102073000 +0000">
+  <programme channel="KO-31" start="20260104040000 +0000" stop="20260104073000 +0000">
     <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_4c78.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102073000 +0000" stop="20260102080000 +0000">
+  <programme channel="KO-31" start="20260104073000 +0000" stop="20260104080000 +0000">
     <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102080000 +0000" stop="20260102083000 +0000">
+  <programme channel="KO-31" start="20260104080000 +0000" stop="20260104083000 +0000">
     <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102083000 +0000" stop="20260102090000 +0000">
+  <programme channel="KO-31" start="20260104083000 +0000" stop="20260104090000 +0000">
     <title lang="en">Sehaj Paath Guru Granth Sahib Ji Giani Sahib Singh ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJiGianiSahibSinghji_57f5.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102090000 +0000" stop="20260102093000 +0000">
+  <programme channel="KO-31" start="20260104090000 +0000" stop="20260104093000 +0000">
     <title lang="en">Amrit Katha Bhai Pinderpal Singh Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/AmritKathaBhaiPinderpalSinghJi_5d1f.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102093000 +0000" stop="20260102100000 +0000">
+  <programme channel="KO-31" start="20260104093000 +0000" stop="20260104100000 +0000">
     <title lang="en">Gurbai Verkha Bhai Guriqbal Singh Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurbaiVerkhaBhaiGuriqbalSinghJi_d52e.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102100000 +0000" stop="20260102103000 +0000">
+  <programme channel="KO-31" start="20260104100000 +0000" stop="20260104103000 +0000">
     <title lang="en">Viakhya Sri Guru Granth Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ViakhyaSriGuruGranthSahibJi_4597.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102103000 +0000" stop="20260102110000 +0000">
+  <programme channel="KO-31" start="20260104103000 +0000" stop="20260104110000 +0000">
     <title lang="en">Santhia Path by Sahib Gyani Jagtar Singh Jachak Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SanthiaPathbySahibGyaniJagtarSinghJachakJi_d97f.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102110000 +0000" stop="20260102113000 +0000">
+  <programme channel="KO-31" start="20260104110000 +0000" stop="20260104113000 +0000">
     <title lang="en">Choupai Sahib</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102113000 +0000" stop="20260102144000 +0000">
+  <programme channel="KO-31" start="20260104113000 +0000" stop="20260104144000 +0000">
     <title lang="en">Gurudwara Sri Patna Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriPatnaSahibJiLive_4c78.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102144000 +0000" stop="20260102151000 +0000">
+  <programme channel="KO-31" start="20260104144000 +0000" stop="20260104151000 +0000">
     <title lang="en">Sehaj Paath Guru Granth Sahib Ji</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/SehajPaathGuruGranthSahibJi_a9a3.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102151000 +0000" stop="20260102161000 +0000">
+  <programme channel="KO-31" start="20260104151000 +0000" stop="20260104161000 +0000">
     <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102161000 +0000" stop="20260102171000 +0000">
+  <programme channel="KO-31" start="20260104161000 +0000" stop="20260104171000 +0000">
     <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102171000 +0000" stop="20260102181000 +0000">
+  <programme channel="KO-31" start="20260104171000 +0000" stop="20260104181000 +0000">
     <title lang="en">Telecast From Gurudwara Dashmesh Darbar</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurdwaraDashmeshDarbar(Salem,Oregon)_7cf2.jpg"/>
   </programme>
-  <programme channel="KO-31" start="20260102181000 +0000" stop="20260102182900 +0000">
+  <programme channel="KO-31" start="20260104181000 +0000" stop="20260104182900 +0000">
     <title lang="en">Daata Ji Mehar Karo</title>
     <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
   </programme>
-  <programme channel="ST-5294" start="20251231015109 +0000" stop="20251231041305 +0000">
-    <title lang="en">Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc lang="en">Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</desc>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <date>20251231</date>
+  <programme channel="KO-31" start="20260104183000 +0000" stop="20260104190000 +0000">
+    <title lang="en">Japuji Sahib &amp; Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/JapujiSahib&amp;ChoupaiSahib_9d28.jpg"/>
   </programme>
-  <programme channel="ST-5294" start="20251231041305 +0000" stop="20251231061306 +0000">
-    <title lang="en">Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc lang="en">Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <date>20251231</date>
+  <programme channel="KO-31" start="20260104190000 +0000" stop="20260104193000 +0000">
+    <title lang="en">Daata Ji Mehar Karo</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/DaataJiMeharKaro_e231.jpg"/>
   </programme>
-  <programme channel="ST-5294" start="20251231061306 +0000" stop="20251231081306 +0000">
-    <title lang="en">Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc lang="en">Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <date>20251231</date>
+  <programme channel="KO-31" start="20260104193000 +0000" stop="20260104200000 +0000">
+    <title lang="en">Chandi Di Waar</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChandiDiWaar_b769.jpg"/>
   </programme>
-  <programme channel="ST-5294" start="20251231081306 +0000" stop="20251231095807 +0000">
-    <title lang="en">1986/87 Ashes (Australia v England) - 1st Test</title>
-    <desc lang="en">1986/87 Ashes (Australia v England) - 1st Test</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <date>20251231</date>
+  <programme channel="KO-31" start="20260104200000 +0000" stop="20260104201000 +0000">
+    <title lang="en">Choupai Sahib</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/ChoupaiSahib_d618.jpg"/>
   </programme>
-  <programme channel="ST-5294" start="20251231095807 +0000" stop="20251231110711 +0000">
-    <title lang="en">1990/91 Ashes (Australia v England) - 1st Test</title>
-    <desc lang="en">1990/91 Ashes (Australia v England) - 1st Test</desc>
-    <episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231110711 +0000" stop="20251231131341 +0000">
-    <title lang="en">1994/95 Ashes (Australia v England) - 1st Test</title>
-    <desc lang="en">1994/95 Ashes (Australia v England) - 1st Test</desc>
-    <episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231131341 +0000" stop="20251231144941 +0000">
-    <title lang="en">1986/87 Ashes (Australia v England) - 2nd Test</title>
-    <desc lang="en">1986/87 Ashes (Australia v England) - 2nd Test</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231144941 +0000" stop="20251231160142 +0000">
-    <title lang="en">1990/91 Ashes (Australia v England) - 5th Test</title>
-    <desc lang="en">1990/91 Ashes (Australia v England) - 5th Test</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231160142 +0000" stop="20251231180342 +0000">
-    <title lang="en">1994/95 Ashes (Australia v England) - 5th Test</title>
-    <desc lang="en">1994/95 Ashes (Australia v England) - 5th Test</desc>
-    <episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231180342 +0000" stop="20251231194543 +0000">
-    <title lang="en">1986/87 Ashes (Australia v England) - 3rd Test</title>
-    <desc lang="en">1986/87 Ashes (Australia v England) - 3rd Test</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231194543 +0000" stop="20251231211643 +0000">
-    <title lang="en">1990/91 Ashes (Australia v England) - 4th Test</title>
-    <desc lang="en">1990/91 Ashes (Australia v England) - 4th Test</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231211643 +0000" stop="20251231232843 +0000">
-    <title lang="en">1994/95 Ashes (Australia v England) - 4th Test</title>
-    <desc lang="en">1994/95 Ashes (Australia v England) - 4th Test</desc>
-    <episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-    <date>20251231</date>
-  </programme>
-  <programme channel="ST-5294" start="20251231232843 +0000" stop="20260101001944 +0000">
-    <title lang="en">1986/87 Ashes (Australia v England) - 4th Test</title>
-    <desc lang="en">1986/87 Ashes (Australia v England) - 4th Test</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <date>20251231</date>
+  <programme channel="KO-31" start="20260104201000 +0000" stop="20260105040000 +0000">
+    <title lang="en">Gurudwara Sri Bangla Sahib Ji Live</title>
+    <icon src="https://images.kableone.com/Images/TVImages/TVProgram/GurudwaraSriBanglaSahibJiLive_0e47.jpg"/>
   </programme>
   <programme channel="ST-5294" start="20260101001944 +0000" stop="20260101015414 +0000">
     <title lang="en">1990/91 Ashes (Australia v England) - 2nd Test</title>
@@ -2574,211 +2496,211 @@
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260102</date>
   </programme>
-  <programme channel="ST-5294" start="20260103020003 +0000" stop="20260103035100 +0000">
+  <programme channel="ST-5294" start="20260103020003 +0000" stop="20260103035102 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Morning Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Morning Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103035100 +0000" stop="20260103053205 +0000">
+  <programme channel="ST-5294" start="20260103035102 +0000" stop="20260103053209 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Afternoon Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Afternoon Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103053205 +0000" stop="20260103075003 +0000">
+  <programme channel="ST-5294" start="20260103053209 +0000" stop="20260103075009 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Evening Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Evening Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103075003 +0000" stop="20260103085003 +0000">
+  <programme channel="ST-5294" start="20260103075009 +0000" stop="20260103085009 +0000">
     <title lang="en">2013/14 T20I Series - Match 2 - Australia v England</title>
     <desc lang="en">2013/14 T20I Series - Match 2 - Australia v England</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103085003 +0000" stop="20260103090009 +0000">
+  <programme channel="ST-5294" start="20260103085009 +0000" stop="20260103090015 +0000">
     <title lang="en">9899_M01_AUSvENG</title>
     <desc lang="en">9899_M01_AUSvENG</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103090009 +0000" stop="20260103110008 +0000">
+  <programme channel="ST-5294" start="20260103090015 +0000" stop="20260103110015 +0000">
     <title lang="en">BBL|01 - Match 3 - Adelaide Strikers v Melbourne Renegades</title>
     <desc lang="en">BBL|01 - Match 3 - Adelaide Strikers v Melbourne Renegades</desc>
     <episode-num system="xmltv_ns">0.-1.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103110008 +0000" stop="20260103110258 +0000">
+  <programme channel="ST-5294" start="20260103110015 +0000" stop="20260103110305 +0000">
     <title lang="en">Two Minute Classics: Aaron Finch 111 v Stars - BBL|02</title>
     <desc lang="en">Two Minute Classics: Aaron Finch 111 v Stars - BBL|02</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103110258 +0000" stop="20260103120032 +0000">
+  <programme channel="ST-5294" start="20260103110305 +0000" stop="20260103120039 +0000">
     <title lang="en">1997/98 ODI Tri-Series - Match 3 - Australia v New Zealand</title>
     <desc lang="en">1997/98 ODI Tri-Series - Match 3 - Australia v New Zealand</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103120032 +0000" stop="20260103140032 +0000">
+  <programme channel="ST-5294" start="20260103120039 +0000" stop="20260103140040 +0000">
     <title lang="en">Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
     <desc lang="en">Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103140032 +0000" stop="20260103170032 +0000">
+  <programme channel="ST-5294" start="20260103140040 +0000" stop="20260103170040 +0000">
     <title lang="en">Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
     <desc lang="en">Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103170032 +0000" stop="20260103195832 +0000">
+  <programme channel="ST-5294" start="20260103170040 +0000" stop="20260103195840 +0000">
     <title lang="en">Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
     <desc lang="en">Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103195832 +0000" stop="20260103200104 +0000">
+  <programme channel="ST-5294" start="20260103195840 +0000" stop="20260103200112 +0000">
     <title lang="en">Two Minute Classics: Jake Weatherald 115 v Hurricanes - BBL|07</title>
     <desc lang="en">Two Minute Classics: Jake Weatherald 115 v Hurricanes - BBL|07</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103200104 +0000" stop="20260103215201 +0000">
+  <programme channel="ST-5294" start="20260103200112 +0000" stop="20260103215212 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Morning Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Morning Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103215201 +0000" stop="20260103233305 +0000">
+  <programme channel="ST-5294" start="20260103215212 +0000" stop="20260103233318 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Afternoon Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Afternoon Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260103233305 +0000" stop="20260104015104 +0000">
+  <programme channel="ST-5294" start="20260103233318 +0000" stop="20260104015118 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Evening Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Evening Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260103</date>
   </programme>
-  <programme channel="ST-5294" start="20260104015104 +0000" stop="20260104020055 +0000">
+  <programme channel="ST-5294" start="20260104015118 +0000" stop="20260104020109 +0000">
     <title lang="en">9899_M01_AUSvENG</title>
     <desc lang="en">9899_M01_AUSvENG</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104020055 +0000" stop="20260104035756 +0000">
+  <programme channel="ST-5294" start="20260104020109 +0000" stop="20260104035811 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 4 - Morning Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 4 - Morning Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104035756 +0000" stop="20260104055105 +0000">
+  <programme channel="ST-5294" start="20260104035811 +0000" stop="20260104055119 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 4 - Afternoon Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 4 - Afternoon Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104055105 +0000" stop="20260104080334 +0000">
+  <programme channel="ST-5294" start="20260104055119 +0000" stop="20260104080349 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 4 - Evening Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 4 - Evening Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104080334 +0000" stop="20260104090122 +0000">
+  <programme channel="ST-5294" start="20260104080349 +0000" stop="20260104090136 +0000">
     <title lang="en">Australia v India - 1st T20I - 2007/08 T20I Series</title>
     <desc lang="en">Australia v India - 1st T20I - 2007/08 T20I Series</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104090122 +0000" stop="20260104110122 +0000">
+  <programme channel="ST-5294" start="20260104090136 +0000" stop="20260104110136 +0000">
     <title lang="en">BBL|01 - Match 4 - Perth Scorchers v Hobart Hurricanes</title>
     <desc lang="en">BBL|01 - Match 4 - Perth Scorchers v Hobart Hurricanes</desc>
     <episode-num system="xmltv_ns">0.-1.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104110122 +0000" stop="20260104120027 +0000">
+  <programme channel="ST-5294" start="20260104110136 +0000" stop="20260104120042 +0000">
     <title lang="en">Forged in Fire - Episode 1</title>
     <desc lang="en">Forged in Fire tells the stories of the epic Ashes contests of 74/75, 1981, 1989 and 2005 as told by the series' key protagonists.</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104120027 +0000" stop="20260104123027 +0000">
+  <programme channel="ST-5294" start="20260104120042 +0000" stop="20260104123041 +0000">
     <title lang="en">RAPID REWIND: 2006/07 Ashes - 4th Test - Day 1</title>
     <desc lang="en">RAPID REWIND: 2006/07 Ashes - 4th Test - Day 1</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104123027 +0000" stop="20260104130027 +0000">
+  <programme channel="ST-5294" start="20260104123041 +0000" stop="20260104130041 +0000">
     <title lang="en">RAPID REWIND: 2006/07 Ashes - 4th Test - Day 2</title>
     <desc lang="en">RAPID REWIND: 2006/07 Ashes - 4th Test - Day 2</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104130027 +0000" stop="20260104133027 +0000">
+  <programme channel="ST-5294" start="20260104130041 +0000" stop="20260104133041 +0000">
     <title lang="en">RAPID REWIND: 2006/07 Ashes - 4th Test - Day 3</title>
     <desc lang="en">RAPID REWIND: 2006/07 Ashes - 4th Test - Day 3</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104133027 +0000" stop="20260104143027 +0000">
+  <programme channel="ST-5294" start="20260104133041 +0000" stop="20260104143041 +0000">
     <title lang="en">1999/00 World Series Cup - Match 2 - Pakistan v India</title>
     <desc lang="en">1999/00 World Series Cup - Match 2 - Pakistan v India</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104143027 +0000" stop="20260104153027 +0000">
+  <programme channel="ST-5294" start="20260104143041 +0000" stop="20260104153041 +0000">
     <title lang="en">1999/00 World Series Cup - Match 3 - Australia v India</title>
     <desc lang="en">1999/00 World Series Cup - Match 3 - Australia v India</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104153027 +0000" stop="20260104163027 +0000">
+  <programme channel="ST-5294" start="20260104153041 +0000" stop="20260104163041 +0000">
     <title lang="en">1999/00 World Series Cup - Match 4 - Australia v India</title>
     <desc lang="en">1999/00 World Series Cup - Match 4 - Australia v India</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104163027 +0000" stop="20260104173027 +0000">
+  <programme channel="ST-5294" start="20260104163041 +0000" stop="20260104173041 +0000">
     <title lang="en">1999/00 World Series Cup - Match 7 - India v Pakistan</title>
     <desc lang="en">1999/00 World Series Cup - Match 7 - India v Pakistan</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104173027 +0000" stop="20260104183027 +0000">
+  <programme channel="ST-5294" start="20260104173041 +0000" stop="20260104183041 +0000">
     <title lang="en">1999/00 World Series Cup - Match 9 - Pakistan v India</title>
     <desc lang="en">1999/00 World Series Cup - Match 9 - Pakistan v India</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104183027 +0000" stop="20260104193027 +0000">
+  <programme channel="ST-5294" start="20260104183041 +0000" stop="20260104193042 +0000">
     <title lang="en">1999/00 World Series Cup - Match 10 - Australia v India</title>
     <desc lang="en">1999/00 World Series Cup - Match 10 - Australia v India</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104193027 +0000" stop="20260104203027 +0000">
+  <programme channel="ST-5294" start="20260104193042 +0000" stop="20260104203042 +0000">
     <title lang="en">1999/00 World Series Cup - Match 11 - India v Pakistan</title>
     <desc lang="en">1999/00 World Series Cup - Match 11 - India v Pakistan</desc>
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104203027 +0000" stop="20260104221409 +0000">
+  <programme channel="ST-5294" start="20260104203042 +0000" stop="20260104221423 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Morning Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Morning Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104221409 +0000" stop="20260104234859 +0000">
+  <programme channel="ST-5294" start="20260104221423 +0000" stop="20260104234913 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Afternoon Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Afternoon Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20260104</date>
   </programme>
-  <programme channel="ST-5294" start="20260104234859 +0000" stop="20260105020657 +0000">
+  <programme channel="ST-5294" start="20260104234913 +0000" stop="20260105020712 +0000">
     <title lang="en">2006/07 Ashes - 3rd Test - Day 3 - Evening Session</title>
     <desc lang="en">2006/07 Ashes - 3rd Test - Day 3 - Evening Session</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
